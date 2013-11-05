@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!-- http://docs.oracle.com/cd/E13222_01/wls/docs92/webapp/configureservlet.html -->
+<web-app>
+
+    <servlet>
+        <servlet-name>jersey</servlet-name>
+        <servlet-class>com.glassfish.jersey.servlet.ServletContainer</servlet-class>
+        <!-- load an instance of the Jersey ServletContainer during the WAR bootstrap process; the critical role of the
+        ServletContainer is to scan the deployed WAR file for Jersey Application classes. -->
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+
+</web-app>
