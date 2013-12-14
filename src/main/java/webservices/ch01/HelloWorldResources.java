@@ -3,9 +3,7 @@ package webservices.ch01;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import javax.ws.rs.GET;
-import javax.ws.rs.Path;
-import javax.ws.rs.Produces;
+import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
 import javax.xml.bind.JAXBElement;
 import javax.xml.namespace.QName;
@@ -21,8 +19,8 @@ public class HelloWorldResources {
     @GET
     @Produces({MediaType.TEXT_PLAIN})
     @Path("/plain")
-    public String getPlain() {
-        return "Hello World!!!";
+    public String getPlain(@DefaultValue("Hello") @QueryParam("greeting") String greeting) {
+        return greeting + " World!!!";
     }
 
     @GET
