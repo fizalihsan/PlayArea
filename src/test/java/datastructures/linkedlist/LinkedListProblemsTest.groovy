@@ -387,4 +387,40 @@ class LinkedListProblemsTest extends Specification {
         then: loop
     }
 
+    def "List add - [1] + [1]"(){
+        def list1 = new SingleLinkNode(null, "1")
+        def list2 = new SingleLinkNode(null, "1")
+        when: def result = add(list1, list2)
+        then: Integer.valueOf(concat(result)) == 2
+    }
+
+    def "List add - [1 -> 1] + [1]"(){
+        def list1 = new SingleLinkNode(new SingleLinkNode(null, "1"), "1")
+        def list2 = new SingleLinkNode(null, "1")
+        when: def result = add(list1, list2)
+        then: Integer.valueOf(concat(result)) == 12
+    }
+
+    def "List add - [9 -> 9] + [9]"(){
+        def list1 = new SingleLinkNode(new SingleLinkNode(null, "9"), "9")
+        def list2 = new SingleLinkNode(null, "9")
+        when: def result = add(list1, list2)
+        then: Integer.valueOf(concat(result)) == 108
+    }
+
+    def "Concat"(){
+        when: def result = concat(new SingleLinkNode(new SingleLinkNode(new SingleLinkNode(null, "7"), "8"), "9"))
+        then: result == "987"
+    }
+
+    def "print in reverse - using concat"(){
+        when: def result = printInReverseViaStringReversal(new SingleLinkNode(new SingleLinkNode(new SingleLinkNode(null, "7"), "8"), "9"))
+        then: result == "789"
+    }
+
+    def "print in reverse - using recursion"(){
+        def writer = new StringWriter();
+        when: printInReverseViaRecursion(new SingleLinkNode(new SingleLinkNode(new SingleLinkNode(null, "7"), "8"), "9"), writer)
+        then: writer.toString() == "789"
+    }
 }
