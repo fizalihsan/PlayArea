@@ -2,8 +2,7 @@ package datastructures.linkedlist
 
 import spock.lang.Specification
 
-import static datastructures.linkedlist.LinkedListProblems.kthNodeFromEnd
-import static datastructures.linkedlist.LinkedListProblems.reverse
+import static datastructures.linkedlist.LinkedListProblems.*
 /**
  * Comment here about the class
  * User: Fizal
@@ -77,4 +76,315 @@ class LinkedListProblemsTest extends Specification {
         when: def reverse = reverse(node1)
         then: reverse == node6
     }
+
+    def "Loop check using extra datastructure - 1"(){
+        def node1 = new SingleLinkNode(null, "1")
+        when: def loop = loopCheckUsingExtraDataStructure(node1)
+        then: !loop
+    }
+
+    def "Loop check using extra datastructure - 1 -> 1"(){
+        def node1 = new SingleLinkNode(null, "1")
+        node1.setNext(node1)
+        when: def loop = loopCheckUsingExtraDataStructure(node1)
+        then: loop
+    }
+
+    def "Loop check using extra datastructure - 1 -> 2"(){
+        def node2 = new SingleLinkNode(null, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        when: def loop = loopCheckUsingExtraDataStructure(node1)
+        then: !loop
+    }
+
+    def "Loop check using extra datastructure - 1 -> 2 -> 1"(){
+        def node2 = new SingleLinkNode(null, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        node2.setNext(node1)
+        when: def loop = loopCheckUsingExtraDataStructure(node1)
+        then: loop
+    }
+
+    def "Loop check using extra datastructure - 1 -> 2 -> 3"(){
+        def node3 = new SingleLinkNode(null, "3")
+        def node2 = new SingleLinkNode(node3, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        when: def loop = loopCheckUsingExtraDataStructure(node1)
+        then: !loop
+    }
+
+    def "Loop check using extra datastructure - 1 -> 2 -> 3 -> 1"(){
+        def node3 = new SingleLinkNode(null, "3")
+        def node2 = new SingleLinkNode(node3, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        node3.setNext(node1)
+        when: def loop = loopCheckUsingExtraDataStructure(node1)
+        then: loop
+    }
+
+    def "Loop check using extra datastructure - 1 -> 2 -> 3 -> 2"(){
+        def node3 = new SingleLinkNode(null, "3")
+        def node2 = new SingleLinkNode(node3, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        node3.setNext(node2)
+        when: def loop = loopCheckUsingExtraDataStructure(node1)
+        then: loop
+    }
+
+    def "Loop check using extra datastructure - 1 -> 2 -> 3 -> 4"(){
+        def node4 = new SingleLinkNode(null, "4")
+        def node3 = new SingleLinkNode(node4, "3")
+        def node2 = new SingleLinkNode(node3, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        when: def loop = loopCheckUsingExtraDataStructure(node1)
+        then: !loop
+    }
+
+    def "Loop check using extra datastructure - 1 -> 2 -> 3 -> 4 -> 1"(){
+        def node4 = new SingleLinkNode(null, "4")
+        def node3 = new SingleLinkNode(node4, "3")
+        def node2 = new SingleLinkNode(node3, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        node4.setNext(node1)
+        when: def loop = loopCheckUsingExtraDataStructure(node1)
+        then: loop
+    }
+
+    def "Loop check using extra datastructure - 1 -> 2 -> 3 -> 4 -> 2"(){
+        def node4 = new SingleLinkNode(null, "4")
+        def node3 = new SingleLinkNode(node4, "3")
+        def node2 = new SingleLinkNode(node3, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        node4.setNext(node2)
+        when: def loop = loopCheckUsingExtraDataStructure(node1)
+        then: loop
+    }
+
+    def "Loop check using extra datastructure - 1 -> 2 -> 3 -> 4 -> 3"(){
+        def node4 = new SingleLinkNode(null, "4")
+        def node3 = new SingleLinkNode(node4, "3")
+        def node2 = new SingleLinkNode(node3, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        node4.setNext(node3)
+        when: def loop = loopCheckUsingExtraDataStructure(node1)
+        then: loop
+    }
+
+    def "Loop check using extra datastructure - 1 -> 2 -> 3 -> 2,4"(){
+        def node4 = new SingleLinkNode(null, "4")
+        def node3 = new SingleLinkNode(node4, "3")
+        def node2 = new SingleLinkNode(node3, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        node3.setNext(node2)
+        when: def loop = loopCheckUsingExtraDataStructure(node1)
+        then: loop
+    }
+
+    def "Loop check by Pollard- 1"(){
+        def node1 = new SingleLinkNode(null, "1")
+        when: def loop = loopCheckByPollard(node1)
+        then: !loop
+    }
+
+    def "Loop check by Pollard- 1 -> 1"(){
+        def node1 = new SingleLinkNode(null, "1")
+        node1.setNext(node1)
+        when: def loop = loopCheckByPollard(node1)
+        then: loop
+    }
+
+    def "Loop check by Pollard - 1 -> 2"(){
+        def node2 = new SingleLinkNode(null, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        when: def loop = loopCheckByPollard(node1)
+        then: !loop
+    }
+
+    def "Loop check by Pollard - 1 -> 2 -> 1"(){
+        def node2 = new SingleLinkNode(null, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        node2.setNext(node1)
+        when: def loop = loopCheckByPollard(node1)
+        then: loop
+    }
+
+    def "Loop check by Pollard - 1 -> 2 -> 3"(){
+        def node3 = new SingleLinkNode(null, "3")
+        def node2 = new SingleLinkNode(node3, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        when: def loop = loopCheckByPollard(node1)
+        then: !loop
+    }
+
+    def "Loop check by Pollard - 1 -> 2 -> 3 -> 1"(){
+        def node3 = new SingleLinkNode(null, "3")
+        def node2 = new SingleLinkNode(node3, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        node3.setNext(node1)
+        when: def loop = loopCheckByPollard(node1)
+        then: loop
+    }
+
+    def "Loop check by Pollard - 1 -> 2 -> 3 -> 2"(){
+        def node3 = new SingleLinkNode(null, "3")
+        def node2 = new SingleLinkNode(node3, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        node3.setNext(node2)
+        when: def loop = loopCheckByPollard(node1)
+        then: loop
+    }
+
+    def "Loop check by Pollard - 1 -> 2 -> 3 -> 4"(){
+        def node4 = new SingleLinkNode(null, "4")
+        def node3 = new SingleLinkNode(node4, "3")
+        def node2 = new SingleLinkNode(node3, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        when: def loop = loopCheckByPollard(node1)
+        then: !loop
+    }
+
+    def "Loop check by Pollard - 1 -> 2 -> 3 -> 4 -> 1"(){
+        def node4 = new SingleLinkNode(null, "4")
+        def node3 = new SingleLinkNode(node4, "3")
+        def node2 = new SingleLinkNode(node3, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        node4.setNext(node1)
+        when: def loop = loopCheckByPollard(node1)
+        then: loop
+    }
+
+    def "Loop check by Pollard - 1 -> 2 -> 3 -> 4 -> 2"(){
+        def node4 = new SingleLinkNode(null, "4")
+        def node3 = new SingleLinkNode(node4, "3")
+        def node2 = new SingleLinkNode(node3, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        node4.setNext(node2)
+        when: def loop = loopCheckByPollard(node1)
+        then: loop
+    }
+
+    def "Loop check by Pollard - 1 -> 2 -> 3 -> 4 -> 3"(){
+        def node4 = new SingleLinkNode(null, "4")
+        def node3 = new SingleLinkNode(node4, "3")
+        def node2 = new SingleLinkNode(node3, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        node4.setNext(node3)
+        when: def loop = loopCheckByPollard(node1)
+        then: loop
+    }
+
+    def "Loop check by Pollard - 1 -> 2 -> 3 -> 2,4"(){
+        def node4 = new SingleLinkNode(null, "4")
+        def node3 = new SingleLinkNode(node4, "3")
+        def node2 = new SingleLinkNode(node3, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        node3.setNext(node2)
+        when: def loop = loopCheckByPollard(node1)
+        then: loop
+    }
+
+
+    def "Loop check by Brent- 1"(){
+        def node1 = new SingleLinkNode(null, "1")
+        when: def loop = loopCheckByBrent(node1)
+        then: !loop
+    }
+
+    def "Loop check by Brent- 1 -> 1"(){
+        def node1 = new SingleLinkNode(null, "1")
+        node1.setNext(node1)
+        when: def loop = loopCheckByBrent(node1)
+        then: loop
+    }
+
+    def "Loop check by Brent - 1 -> 2"(){
+        def node2 = new SingleLinkNode(null, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        when: def loop = loopCheckByBrent(node1)
+        then: !loop
+    }
+
+    def "Loop check by Brent - 1 -> 2 -> 1"(){
+        def node2 = new SingleLinkNode(null, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        node2.setNext(node1)
+        when: def loop = loopCheckByBrent(node1)
+        then: loop
+    }
+
+    def "Loop check by Brent - 1 -> 2 -> 3"(){
+        def node3 = new SingleLinkNode(null, "3")
+        def node2 = new SingleLinkNode(node3, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        when: def loop = loopCheckByBrent(node1)
+        then: !loop
+    }
+
+    def "Loop check by Brent - 1 -> 2 -> 3 -> 1"(){
+        def node3 = new SingleLinkNode(null, "3")
+        def node2 = new SingleLinkNode(node3, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        node3.setNext(node1)
+        when: def loop = loopCheckByBrent(node1)
+        then: loop
+    }
+
+    def "Loop check by Brent - 1 -> 2 -> 3 -> 2"(){
+        def node3 = new SingleLinkNode(null, "3")
+        def node2 = new SingleLinkNode(node3, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        node3.setNext(node2)
+        when: def loop = loopCheckByBrent(node1)
+        then: loop
+    }
+
+    def "Loop check by Brent - 1 -> 2 -> 3 -> 4"(){
+        def node4 = new SingleLinkNode(null, "4")
+        def node3 = new SingleLinkNode(node4, "3")
+        def node2 = new SingleLinkNode(node3, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        when: def loop = loopCheckByBrent(node1)
+        then: !loop
+    }
+
+    def "Loop check by Brent - 1 -> 2 -> 3 -> 4 -> 1"(){
+        def node4 = new SingleLinkNode(null, "4")
+        def node3 = new SingleLinkNode(node4, "3")
+        def node2 = new SingleLinkNode(node3, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        node4.setNext(node1)
+        when: def loop = loopCheckByBrent(node1)
+        then: loop
+    }
+
+    def "Loop check by Brent - 1 -> 2 -> 3 -> 4 -> 2"(){
+        def node4 = new SingleLinkNode(null, "4")
+        def node3 = new SingleLinkNode(node4, "3")
+        def node2 = new SingleLinkNode(node3, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        node4.setNext(node2)
+        when: def loop = loopCheckByBrent(node1)
+        then: loop
+    }
+
+    def "Loop check by Brent - 1 -> 2 -> 3 -> 4 -> 3"(){
+        def node4 = new SingleLinkNode(null, "4")
+        def node3 = new SingleLinkNode(node4, "3")
+        def node2 = new SingleLinkNode(node3, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        node4.setNext(node3)
+        when: def loop = loopCheckByBrent(node1)
+        then: loop
+    }
+
+    def "Loop check by Brent - 1 -> 2 -> 3 -> 2,4"(){
+        def node4 = new SingleLinkNode(null, "4")
+        def node3 = new SingleLinkNode(node4, "3")
+        def node2 = new SingleLinkNode(node3, "2")
+        def node1 = new SingleLinkNode(node2, "1")
+        node3.setNext(node2)
+        when: def loop = loopCheckByBrent(node1)
+        then: loop
+    }
+
 }
