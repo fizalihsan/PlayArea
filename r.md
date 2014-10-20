@@ -30,31 +30,31 @@ The most basic object is a vector.
 different classes (indeed, that’s usually why we use them)
 * Empty vectors can be created with the `vector()` function.
 * Vector examples
-{% highlight r %}
+```r
 > x <- c(0.5, 0.6) ## numeric
 > x <- c(TRUE, FALSE) ## logical
 > x <- c(T, F) ## logical
 > x <- c("a", "b", "c") ## character
 > x <- 9:29 ## integer
 > x <- c(1+0i, 2+4i) ## complex
-{% endhighlight %}
+```
 
 * Lists are a special type of vector that can contain elements of different classes.
-{% highlight r %}
+```r
 > x <- list(1, "a", TRUE, 1 + 4i) 
-{% endhighlight %}
+```
 
 * **Mixing Objects**  
 When different objects are mixed in a vector, *coercion* occurs so that every element in the vector is
 of the same class.
-{% highlight r %}
+```r
 > y <- c(1.7, "a") ## character
 > y <- c(TRUE, 2) ## numeric
 > y <- c("a", TRUE) ## character
-{% endhighlight %}
+```
 * **Explicit Coercion **  
 Objects can be explicitly coerced from one class to another using the `as.*()` functions, if available.
-{% highlight r %}
+```r
 > x <- 0:6
 > class(x)
 [1] "integer"
@@ -64,7 +64,7 @@ Objects can be explicitly coerced from one class to another using the `as.*()` f
 [1] FALSE TRUE TRUE TRUE TRUE TRUE TRUE
 > as.character(x)
 [1] "0" "1" "2" "3" "4" "5" "6"
-{% endhighlight %}
+```
 * **Nonsensical coercion results in *NAs* **
 {% highlight r  %}
 > x <- c("a", "b", "c")
@@ -76,11 +76,11 @@ NAs introduced by coercion
 [1] NA NA NA
 > as.complex(x)
 [1] 0+0i 1+0i 2+0i 3+0i 4+0i 5+0i 6+0i
-{% endhighlight %}
+```
 * **Matrices**
 Matrices are vectors with a *dimension* attribute. The dimension attribute is itself an integer vector of
 length 2 (nrow, ncol).
-{% highlight r %}
+```r
 > m <- matrix(nrow = 2, ncol = 3) 
 > m
  [,1] [,2] [,3]
@@ -91,7 +91,7 @@ length 2 (nrow, ncol).
 > attributes(m)
 $dim
 [1] 2 3
-{% endhighlight %}
+```
 * **cbind-ing and rbind-ing**
 Matrices can be created by column-binding or row-binding with `cbind()` and `rbind()`.
 {% highlight r  %}
@@ -106,7 +106,7 @@ Matrices can be created by column-binding or row-binding with `cbind()` and `rbi
  [,1] [,2] [,3]
 x 1 2 3
 y 10 11 12
-{% endhighlight %}
+```
 
 ### Factors
 * Factors are nothing but enumeration data types used to represent categorical data.
@@ -125,7 +125,7 @@ no yes
 [1] 2 2 1 2 1
 attr(,"levels")
 [1] "no" "yes"
-{% endhighlight %}
+```
 
 
 ### Data Frames
@@ -145,7 +145,7 @@ attr(,"levels")
 [1] 4
 > ncol(x)
 [1] 2
-{% endhighlight %}
+```
 
 
 ##Appendix
@@ -167,7 +167,7 @@ attr(,"levels")
 > # Save & Load (Text)
 > write.table(obj1, file=”filename”) # only 1 obj at a time
 > load.table()
-{% endhighlight %}
+```
 
 ###Packages
 * `install.packages(c("ggplot2", "devtools", "KernSmooth")` # install the collection of packages from CRAN
