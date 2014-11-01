@@ -50,3 +50,10 @@
 6. **robust out-only** pattern - like out-only pattern, has an outbound message initiating the transmission. the difference here is that a fault message can be issued in response to the receipt of this message
 7. **in-optional-out** pattern - similar to in-out with an exception. This variation introduces a rule stating that the delivery of a response message is optional and should therefore not be expected by the service requetor that originated the communication. This pattern also supports the generation of a fault message.
 8. **out-optional-in** pattern - reverse of the in-optional-out, where the incoming message is optional. Fault message generation is also supported.
+
+
+---
+
+SOA Concepts Bibliography
+
+* SOA - Principles of Service Design - Thomas Erl
