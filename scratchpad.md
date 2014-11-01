@@ -1,59 +1,38 @@
-| General API | Point-to-Point API | Pub-Sub API | 
-| ----------- | ------------------ | ----------- | 
-| ConnectionFactory| QueueConnectionFactory | TopicConnectionFactory | 
-| Destination| Queue| Topic |
-| Connection| QueueConnection| TopicConnection | 
-| Session| QueueSession| TopicSession | 
-| Message| Message| Message | 
-| MessageProducer| QueueSender| TopicPublisher | 
-| MessageConsumer| QueueReceiver| TopicSubscriber |
 
+# Probability
 
-# SOA
+* Event - An outcome or occurrence that has a probability assigned to it
+* Probability = (# of ways of winning) / (# of possible outcomes)
 
-## Message Exchange Patterns (MEP)
+> P(A) = n(A) / n(S), where 
 
-* An MEP is a generic interaction pattern that defines the message exchange between two services
-* MEPs can composed to support the creation of large, more complex patterns.
+  * P(A) - probability of event A occurring
+  * n(A) - number of ways of getting an event A
+  * n(S) - number of possible outcomes
+  * S - **possibility space** or **sample space**
+* Complementary event
+  * A<super>I</super> is the complementary event of A. It is the probability that event A does not occur.
 
-### Primitive MEPs
-1. Request-response
-  * this could be synchronous or asynchronous
-  * typically a "correlation" is used to associate a response with the request 
-2. Fire-and-forget
-  * This simple asynchronous pattern is based on a *unidirectional* transmission of messages from a source to one or more destinations. 
-  * There are few variations in this MEP.
-    * *single-destination* pattern - a source sends a message to one destination only
-    * *multi-cast* pattern - a source sends messages to a predefined set of destinations
-    * *broadcast* pattern - same as multi-cast pattern, except that the message is sent out to a broader range of recipient destinations
+> P(A) + P(A<super>I</super>) = 1
 
-### Complex MEPs
+* Venn Diagram - to easily visualize the probabilities 
 
-* Example of a complex MEP is **Publish-and-subscribe** model
+{% img right /venn-diagram.png %}
 
-### MEPs and WSDL
+* Adding probabilities - e.g., what is the probability of getting an even number in a dice throw.
 
-#### WSDL 1.1 Spec
+> P(even) = P(2) + P(4) + P(6) = 1/6 + 1/6 + 1/6 = 3/6 = 0.5
 
-1. **Request-response operation** - upon receiving a message, the service must response with a standard message or a fault message
-2. **Solicit-response operation** - upon submitting a message to a service requestor, the service expects a standard response message or a fault message
-3. **One-way operation** - the service expects a single message and is not obligated to respond.
-4. **Notification operation** - The service sends a message and expects no response.
+* Exclusive events
+  * If two events are mutually exclusive, only one of the two can occur. e.g., head and tail in a coin toss
 
-#### WSDL 2.0 Spec
+* Intersection events
+  * If two events intersect, it’s possible they can occur simultaneously. e.g., black and even number in roulette 
 
-1. **in-out** pattern - equivalent to WSDL 1.1 request-response
-2. **out-in** pattern - equivalent to WSDL 1.1 solicit-response
-3. **in-only** pattern - equivalent to WSDL 1.1 one-way
-4. **out-only** pattern - equivalent to WSDL 1.1 notification
-5. **robust in-only** pattern - a variation of the in-only pattern that provides the option of launching a fault response message as a result of a transmission or processing error
-6. **robust out-only** pattern - like out-only pattern, has an outbound message initiating the transmission. the difference here is that a fault message can be issued in response to the receipt of this message
-7. **in-optional-out** pattern - similar to in-out with an exception. This variation introduces a rule stating that the delivery of a response message is optional and should therefore not be expected by the service requetor that originated the communication. This pattern also supports the generation of a fault message.
-8. **out-optional-in** pattern - reverse of the in-optional-out, where the incoming message is optional. Fault message generation is also supported.
+# Appendix
 
+## About Roulette Wheel
 
----
-
-SOA Concepts Bibliography
-
-* SOA - Principles of Service Design - Thomas Erl
+* It has 38 pockets that the ball can fall into.
+* The main pockets are numbered from 1 to 36, and each pocket is colored either red or black.
+* There are two extra pockets numbered 0 and 00. These pockets are both green.
