@@ -1,6 +1,21 @@
 package database.oracle;
 
 /**
+ * A utility program to invoke Oracle Stored Procedures via Spring JDBC in a type safe way.
+ *
+ * Sample usage
+ *
+ * <code>
+ *     new StoredProcedure<List<Plan>>()
+         .jdbcTemplate(getJdbcTemplate())
+         .packageName("PKG_PLANS")
+         .storedProcName("SP_GET_PLAN_DETAILS")
+         .stringInput("P_ELIG_START_DT", Dates.toString(date, Dates.DD_MMM_YYYY))
+         .stringInput("P_ELIG_END_DT", Dates.toString(date, Dates.DD_MMM_YYYY))
+         .cursorOutput("P_PRC", new PlanRowMapper())
+         .call();
+ * </code>
+ *
  * @author mohammo on 11/2/2014.
  */
 
