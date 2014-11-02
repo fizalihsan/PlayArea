@@ -1,5 +1,6 @@
 apply plugin: 'java'
 apply plugin: 'war'
+apply plugin: 'idea'
 
 final deployDir = 'C:\\apps\\xampp\\tomcat\\webapps'
 sourceCompatibility = 1.7
@@ -7,7 +8,11 @@ version = '1.0'
 
 repositories {
     mavenCentral()
+    mavenLocal()
 }
+
+final springVersion = "4.0.4.RELEASE"
+final logbackVersion = "1.1.2"
 
 dependencies {
     compile 'javax.ws.rs:javax.ws.rs-api:2.0'
@@ -15,6 +20,21 @@ dependencies {
     compile 'org.glassfish.jersey.core:jersey-server:2.4'
 //    compile 'com.fasterxml.jackson.core:jackson-core:2.2.3'
     compile 'com.fasterxml.jackson.core:jackson-databind:2.2.3'
+    compile 'joda-time:joda-time:2.3'
+
+    compile "org.springframework:spring-core:${springVersion}",
+            "org.springframework:spring-jdbc:${springVersion}",
+            "org.springframework:spring-context:${springVersion}"
+
+    // Logging libraries
+    compile "org.slf4j:slf4j-api:1.7.7"
+    compile "ch.qos.logback:logback-classic:${logbackVersion}"
+    compile "ch.qos.logback:logback-core:${logbackVersion}"
+
+    //Oracle Driver needs to be manually downloaded and installed into your local artifactory
+    // compile 'com.oracle:ojdbc14:10.2.0.4.0'
+    compile files('lib/ojdbc6-12.1.0.1.jar')
+
     testCompile "org.spockframework:spock-core:0.7-groovy-2.0"
 }
 
