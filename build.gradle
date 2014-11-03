@@ -1,4 +1,5 @@
 apply plugin: 'java'
+apply plugin: 'groovy'
 apply plugin: 'war'
 apply plugin: 'idea'
 
@@ -34,6 +35,8 @@ dependencies {
     //Oracle Driver needs to be manually downloaded and installed into your local artifactory
     // compile 'com.oracle:ojdbc14:10.2.0.4.0'
     compile files('lib/ojdbc6-12.1.0.1.jar')
+
+    compile 'org.codehaus.groovy:groovy-all:2.0.5'
 
     testCompile "org.spockframework:spock-core:0.7-groovy-2.0"
 }
