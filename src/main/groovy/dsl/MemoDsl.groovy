@@ -21,7 +21,7 @@ class MemoDsl {
         MemoDsl memoDsl = new MemoDsl()
         // any method called in closure will be delegated to the memoDsl class
         closure.delegate = memoDsl
-        def result = closure()
+        closure()
     }
 
     /**
