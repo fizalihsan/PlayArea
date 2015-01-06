@@ -1,5 +1,7 @@
 package util
 
+import groovyx.gpars.GParsPool
+
 def problem1(){
     def total = 0
     (1..999).each { if(it%3==0 || it%5==0) total+=it}
@@ -434,19 +436,56 @@ def problem17(){
 }
 
 def problem20(){
-//    def factorial = { long n -> return n==1? n: n * call(n-1)}
-    def factorial = { BigInteger n ->
-        if(n==1){
-            return n
-        } else {
-            return n.multiply(call(n.subtract(1)))
-        }
-    }
-
+    def factorial = { BigInteger n -> return n==1 ? n: n.multiply(call(n.subtract(1))) }
     println factorial(BigInteger.valueOf(100)).toString().toCharArray().collect{(it as int)-48}.sum()
 }
 
-problem20()
+def problem21(){
+    def sumOfDivisors = {n ->
+        GParsPool.withPool(10){ result = (1..<n).findAllParallel { n % it == 0 }}
+        result?.sum()
+    }
+
+    def getAmicableNum = { a ->
+        b = sumOfDivisors(a)
+        return (a != b && sumOfDivisors(b) == a) ? b : 0
+    }
+
+    def amicableNums = [] as Set
+    (2..10_000).each { a ->
+        if(!amicableNums.contains(a)){
+            def b = getAmicableNum(a)
+            if(b>0) {
+                amicableNums << a
+                amicableNums << b
+                println "$a\n$b"
+            }
+        }
+    }
+
+    println "$amicableNums = ${amicableNums.sum()}"
+
+}
+
+def problem22(){
+    def names = new File("p022_names.txt").readLines()[0].replaceAll("\"", "").split(",").sort()
+    GParsPool.withPool(10){
+        result = names.collectParallel { String name ->
+            ["$name": name.toCharArray().collect{(it as int)-64}.sum()]
+        }
+    }
+    println result
+    def total = 0L
+    result.eachWithIndex { name, i ->
+        def value = result[i].iterator().next().getValue()
+        def x = (i+1) * value
+        total += x
+        println "${i+1} - $name - $x"
+    }
+    println total
+}
+
+problem22()
 
 class Util {
     static boolean isPrime (n) {
