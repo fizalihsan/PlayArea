@@ -37,6 +37,7 @@ dependencies {
     compile files('lib/ojdbc6-12.1.0.1.jar')
 
     compile 'org.codehaus.groovy:groovy-all:2.0.5'
+    compile 'org.codehaus.gpars:gpars:1.2.1'
 
     testCompile "org.spockframework:spock-core:0.7-groovy-2.0"
 }
