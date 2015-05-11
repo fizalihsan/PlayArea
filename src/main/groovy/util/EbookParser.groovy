@@ -8,8 +8,8 @@ import java.util.concurrent.Executors
  * This is a fun program to print book titles from http://it-ebooks.info/book
  */
 
-def range = 4765..9000
-def pool = Executors.newFixedThreadPool(100)
+def range = 5726..6000
+def pool = Executors.newFixedThreadPool(1)
 def latch = new CountDownLatch(range.size())
 range.each { id ->
     bookDetailPrinter = {
