@@ -1,0 +1,1855 @@
+Folder PATH listing for volume Windows8_OS
+Volume serial number is E212-73D1
+C:.
++---(Apress 2013)
+|   \---Java EE 7 Recipes - A Problem Solut (382)
++---(Jul 2013)
+|   \---Apache Flume - Distributed Log Coll (995)
++---(Nov 2011)
+|   \---Data Structures and Algorithm Analy (473)
++---2001
+|   \---Pattern-Oriented Software Architect (1044)
++---2004
+|   \---Concurrent And Distributed Computin (426)
++---2007
+|   +---Code Craft-The Practice of Writting (621)
+|   +---Pattern-Oriented Software Architect (1037)
+|   \---Pattern-Oriented Software Architect (1040)
++---2008
+|   \---Effective Java (2nd Edition) (374)
++---2009
+|   +---Clean Code - A Handbook of Agile So (624)
+|   +---Principles of Transaction Processin (1034)
+|   \---The Art of Concurrency (425)
++---2011
+|   \---25 Recipes for getting started with (860)
++---2012
+|   \---Java 7 Concurrency Cookbook (432)
++---2nd Ed
+|   \---Starting out with Python - 2nd Ed (540)
++---2nd edition (2011)
+|   \---Apache Axis2 Web Services (1228)
++---3rd Edition
+|   \---Learning jQuery (196)
++---3rd.Edition
+|   \---Data Mining _ Concepts and Techniqu (934)
++---3rd.Edition (2012)
+|   \---Data Mining - Practical Machine Lea (889)
++---4th Edition
+|   \---The Java EE 6 Tutorial - Basic Conc (384)
++---4_8=8AB@0B_@
+|   +---Big Data Big Analytics (997)
+|   \---Public Key Cryptography Application (1087)
++---50 Principles for Scaling Web Sites
+|   \---Scalability Rules (1101)
++---A B M Moniruzzaman
+|   \---NoSQL Database_ New Era of Database (1259)
++---A Rigorous
+|   \---Software Metrics (686)
++---A Spiral Approach
+|   \---Operating Systems (451)
++---Abhay Bhargav, B. V. Kumar
+|   \---Secure Java_ For Web Application De (1085)
++---Acampo GmbH
+|   +---An Introduction to Statistical Meth (856)
+|   \---Pro JSF and AJAX (159)
++---Acuff, Jon
+|   \---START - Punch fear in the face (8)
++---Adam Bien
+|   +---Real World Java EE Night Hacks--Dis (400)
+|   \---Real World Java Ee Patterns-Rethink (727)
++---Addison.Wesley (Nov.2009)
+|   \---The Art of Scalability_ Scalable We (1098)
++---Addy Osmani
+|   \---Learning JavaScript Design Patterns (169)
++---Administrator
+|   +---Core J2EE Patterns - Best Practices (714)
+|   +---Introduction to Service Oriented Ar (1210)
+|   +---Java Enterprise Best Practices.doc (353)
+|   \---Practical Java Message Service (405)
++---Agile.Lightweight.Dependency.Inject
+|   \---Google Guice (1123)
++---akesic
+|   +---JakartaStrutsLive.book (146)
+|   \---Spring LIVE (314)
++---Alan Beaulieu
+|   \---Learning SQL (745)
++---Alan Cooper
+|   \---The Inmates Are Running the Asylum_ (141)
++---Alan Gates
+|   \---Programming Pig (974)
++---Alan Shalloway, James R. Trott (Rip
+|   \---Design Patterns Explained (718)
++---Alan Shalloway; Scott Bain; Ken Pug
+|   \---Essential Skills for the Agile Deve (636)
++---Alan W. Brown
+|   \---Enterprise Software Delivery_ Bring (615)
++---Albert Einstein
+|   \---Relativity (67)
++---Alex Gorbachev
+|   \---Gorbachev Hadoop R (993)
++---Alex Holmes
+|   \---Hadoop in Practice (994)
++---Alex Howard
+|   \---Data for the Public Good (820)
++---Alfred S. Posamentier, Ingmar Lehman
+|   \---Pi - A Biography of the World's Most (28)
++---Alistair Cockburn
+|   \---Agile Software Development (642)
++---Allan G. Bluman
+|   \---Probability Demystified (51)
++---Allen B. Downey
+|   \---Think Bayes (858)
++---Allen Downey
+|   \---Think Python (538)
++---Alpheus Bingham; Dwayne Spradlin
+|   \---The Open Innovation Marketplace_ Cre (83)
++---An Integration Blueprint
+|   \---Service-Oriented Architecture_ An I (1219)
++---Andrew Hunt
+|   \---The Pragmatic Programmer_ From Jour (594)
++---Andrew J. Oppel
+|   \---Databases Demystified (798)
++---Andrew Lee Rubinger
+|   \---Continuous Enterprise Development i (375)
++---Andrew M. Chisholm
+|   \---Derivatives Demystified_ A Step-by- (105)
++---Andy Lester
+|   \---Land the Tech Job You Love (457)
++---Anghel Leonard
+|   \---Pro Java 7 NIO.2 (391)
++---AnHai Doan
+|   \---Principles of Data Integration (828)
++---anna.larjomaa
+|   \---Dissecting SQL Server Execution Pla (784)
++---Anne Mette Jonassen Hass
+|   \---Guide to Advanced Software Testing (299)
++---Anton Chuvakin
+|   \---Logging and Log Management (1111)
++---Antonio Cangiano
+|   \---Technical Blogging (77)
++---Antony Kennedy, Inayaili de Leon
+|   \---Pro CSS for High Traffic Websites (212)
++---Apress
+|   \---Pro Hibernate and MongoDB (1269)
++---Apress (2013)
+|   +---Beginning Java EE 7 (388)
+|   \---Cloud Capacity Management (1138)
++---Apress 2012
+|   \---Practical Load Balancing (1057)
++---Arnaud Cogoluegnes, Thierry Templie
+|   \---Spring Dynamics in Action (1107)
++---Arnold Robbins
+|   +---bash Pocket Reference (277)
+|   +---Learning the Vi Editor (Nutshell Ha (287)
+|   \---vi and Vim Editors Pocket Reference (285)
++---Arnon Rotem-Gal-Oz
+|   \---SOA Patterns (1177)
++---Arnoud Cogoluegnes, Thierry Templie
+|   \---Spring Batch in Action (323)
++---Arun C. Murthy
+|   \---Apache HadoopTM YARN_ Moving beyond (978)
++---Arun Gupta
+|   +---Java EE 6 Pocket Guide (385)
+|   \---Java EE 7 Essentials (386)
++---aseronick
+|   \---Articulating Design Decisions (138)
++---Ash Maurya
+|   \---Running Lean, Second Edition (651)
++---B. V. Kumar
+|   \---Implementing SOA Using Java EE (1213)
++---Barbara Oakley
+|   \---A Mind For Numbers (24)
++---Barry, Douglas K_
+|   \---Web Services, Service-Oriented Arch (1169)
++---Beegel, Justin
+|   \---Infographics For Dummies (951)
++---Ben Henick
+|   \---HTML & CSS_ The Good Parts (218)
++---Ben Jones
+|   \---Communicating Data with Tableau (960)
++---Benjamin Crowell
+|   \---Conceptual Physics (70)
++---Benjamin G Sullins
+|   \---JMX in Action (345)
++---Benjamin J. Evans
+|   \---The Well-Grounded Java Developer (361)
++---Benjamin Muschko
+|   \---Gradle in Action (674)
++---Berman, Karen;Knight, Joe
+|   \---Financial Intelligence for Entrepren (91)
++---Best of Packt (2011)
+|   \---Do more with SOA Integration (1216)
++---Beydeda
+|   \---Model-driven Software Development (611)
++---Bhakti Mehta
+|   \---RESTful Java Patterns and Best Prac (1255)
++---Big Data Reporting
+|   \---Implementing Splunk (971)
++---Bikramjit Debnath
+|   \---High Speed Java (350)
++---Bill Bryson
+|   \---A Short History of Nearly Everything (65)
++---Bill Burke
+|   +---RESTful Java with JAX-RS (1238)
+|   \---RESTful Java with JAX-RS 2.0 (1237)
++---Bill Karwin
+|   +---SQL Antipatterns (808)
+|   \---SQL Antipatterns_ Avoiding the Pitf (806)
++---Bill Schmarzo
+|   \---Big Data_ Understanding How Data Po (1014)
++---Bill Wilder
+|   \---Cloud Architecture Patterns (1139)
++---Bing Liu
+|   \---Web Data Mining, 2nd Edition_ Explo (914)
++---Blaine Simpson
+|   \---JMX - Accelerated How to (344)
++---Bob DuCharme
+|   \---Learning SPARQL (124)
++---Boris Lublinsky, Kevin T. Smith
+|   \---Professional Hadoop(r) Solutions (981)
++---BPMAC4
+|   \---Algorithmics - The Spirit of Comput (486)
++---Bradley Holt
+|   \---Scaling CouchDB (1281)
++---Brett McLaughlin
+|   +---Head Rush Ajax (263)
+|   \---O'Reilly - Head First Object-Orient (622)
++---Brian J.S. Chee, Curtis Franklin Jr
+|   \---Cloud Computing_ Technologies and S (1137)
++---Brian P. Hogan
+|   \---HTML5 and CSS3_ Level Up With Today (215)
++---Brian W. Fitzpatrick
+|   \---Team Geek (606)
++---Bruce A. Tate
+|   \---Seven Languages in Seven Weeks_ A P (499)
++---Bruce Payette
+|   \---Windows PowerShell in Action (110)
++---Bruce Snyder, Dejan Bosanac, Rob Da
+|   \---ActiveMQ in Action (407)
++---Bruce Tate
+|   \---Bitter Java (335)
++---Bryan Basham, Kathy Sierra
+|   \---Head First Servlets and JSP, 2nd Ed (160)
++---by David Hook
+|   \---Beginning Cryptography with Java (1075)
++---By Gregor Hohpe, Bobby Woolf
+|   \---Enterprise Integration Patterns_ De (1148)
++---By Martin Fowler, David Rice, Matth
+|   \---Patterns of Enterprise Application (1035)
++---by Sharon Allen
+|   \---Beginning Relational Data, Second E (805)
++---Carl Albing, JP Vossen
+|   \---bash Cookbook (279)
++---Carlo Scarioni
+|   \---Pro Spring Security (1088)
++---Cathy O'Neil
+|   \---On Being a Data Skeptic (827)
++---Cay S. Horstmann
+|   \---Java SE 8 for the Really Impatient (365)
++---Ceki
+|   \---log4j_ The Complete Manual (1109)
++---Celko, Joe_
+|   +---Joe Celko's Analytics and OLAP in S (748)
+|   \---Joe Celko's SQL Programming Style (746)
++---Cesar Otero
+|   \---Professional_ jQueryTM (195)
++---Chad Fowler
+|   \---The Passionate Programmer (597)
++---CHAD ORZEL
+|   \---How to Teach Physics to Your Dog (57)
++---Chandra Kopparapu
+|   \---Load Balancing Servers, Firewalls, (1100)
++---Chansler, Robert
+|   \---The Architecture of Open Source App (1029)
++---Charles Dierbach
+|   \---Introduction to Computer Science Us (522)
++---Charles Miller Grinstead
+|   \---Introduction to Probability (53)
++---Charlie Hunt; Binu John
+|   \---Java Performance (355)
++---Charu C. Aggarwal
+|   \---Managing and Mining Uncertain Data (922)
++---Chaudhri, Akmal B_
+|   \---Java & Databases (409)
++---Chip Heath
+|   \---Made to Stick (14)
++---Chris Fry
+|   \---Security Monitoring (1083)
++---Chris Nodder
+|   \---Evil by Design (131)
++---Chris Sevilleja
+|   \---MEAN Machine (144)
++---Chris Viau, Andrew Thornton, Ger Ho
+|   \---Developing a D3.js Edge (963)
++---Christian Rudder
+|   \---Dataclysm (1003)
++---Christoph Kern
+|   \---Foundations of Security - What ever (1068)
++---Christophe Porteneuve
+|   \---Pragmatic Guide to JavaScript (Prag (167)
++---Christopher Adamson
+|   \---Star Schema The Complete Reference (804)
++---Christopher Murphy
+|   \---Beginning HTML5 and CSS3_ The Web E (235)
++---Christopher Schmitt
+|   \---CSS Cookbook (231)
++---Christopher Steiner
+|   \---Automate This - How Algorithms Came (438)
++---Chuck Lam
+|   \---Hadoop in Action (992)
++---Claire
+|   \---Book of IQ Tests (22)
++---Claus Ibsen, Jonathan Anstey
+|   \---Camel in Action (1153)
++---Clifford A. Shaffer
+|   \---Data Structures and Algorithm Analy (474)
++---Clifton, Brian
+|   \---Advanced Web Metrics with Google An (899)
++---Clinton Gormley
+|   \---Elasticsearch_ The Definitive Guide (1090)
++---Cohen, Frank_
+|   \---FastSOA (1217)
++---Colin Ware
+|   \---Information Visualization (950)
++---Confessions of a Java Framework Arc
+|   \---Practical API Design (694)
++---Confidential
+|   \---Rockable Web Design (123)
++---Conrad Carlberg
+|   +---Predictive Analytics_ Microsoft(r) (906)
+|   \---Statistical Analysis_ Microsoft(r) (852)
++---Courtney Bowman, Ari Gesher, John K
+|   \---The Architecture of Privacy (1078)
++---Craig Larman
+|   \---Practices for Scaling Lean & Agile (653)
++---Craig S. Mullins
+|   \---DB2 Developer's Guide_ A Solutions- (777)
++---Craig Sharkie
+|   \---Jump Start Responsive Web Design (140)
++---Craig Walls
+|   +---Modular Java_ Creating Flexible App (1104)
+|   \---Spring in Action, Third Edition (315)
++---Cynthia Kane
+|   \---SEAM in Action (119)
++---Dan Brown
+|   \---Angels & Demons_ A Novel (Robert Lan (18)
++---Dan McCreary, Ann Kelly
+|   \---Making Sense of NoSQL (1264)
++---Dan Murray
+|   \---Tableau Your Data! (961)
++---Dan Pilone
+|   \---O'Reilly - Head First Software Deve (617)
++---Daniel H. Pink
+|   \---A Whole New Mind (7)
++---Daniel J. Barrett
+|   \---Linux Pocket Guide (270)
++---Daniel Jacobson
+|   \---APIs_ A Strategy Guide (697)
++---Darl Kuhn, Sam R. Alapati
+|   \---Expert Indexing in Oracle Database (756)
++---Darrell Huff
+|   \---How to Lie with Statistics (44)
++---Data Mining, Inference
+|   \---The Elements of Statistical Learnin (850)
++---Database Architecture
+|   \---Exper Oracle - Database Architectur (762)
++---Dave Hendricksen
+|   \---12 Essential Skills for Software Ar (1016)
++---Dave Klein, Ben Klein
+|   \---Grails 2_ A Quick-Start Guide (514)
++---David Chappell, Tyler Jewell
+|   \---Java Web Services (1246)
++---David Chelimsky
+|   \---The RSpec Book_ Behaviour Driven De (705)
++---David Coffin
+|   \---Expert Oracle and Java Security_ Pr (759)
++---David Dossot
+|   \---Mule in Action (1155)
++---David E.Y. Sarna
+|   \---Implementing and Developing Cloud C (1130)
++---David Flanagan
+|   \---JavaScript Pocket Reference (173)
++---David Flannery
+|   \---The Square Root of Two (25)
++---David Geary
+|   \---Core HTML5 Canvas_ Graphics, Animat (233)
++---David H. Hoover
+|   \---Apprenticeship Patterns (590)
++---David Hows
+|   \---The Definitive Guide to MongoDB (1277)
++---David Loshin
+|   +---Big Data Analytics_ From Strategic (1013)
+|   \---Business Intelligence_ The Savvy Ma (839)
++---David Montag, Andreas Kollegger Mic
+|   \---Good Relationships - the Spring Dat (325)
++---David Powers
+|   \---Beginning CSS3 (240)
++---David Sawyer McFarland
+|   \---CSS3_ The Missing Manual, Third Edi (227)
++---David Wells
+|   \---Prime Numbers - The Most Mysterious (35)
++---Dean Wampler
+|   \---Functional Programming for Java Dev (418)
++---Dean's Office
+|   \---Mastering the vi Editor (286)
++---Debu Panda
+|   \---EJB 3 in Action (421)
++---Dec.2007
+|   \---SOA Security (1176)
++---Dec.2012
+|   \---Data Visualization a successful des (955)
++---Deepak Vohra (2012)
+|   \---Java 7 JAX-WS Web Services (1248)
++---Dennis Cox, Michael Cox
+|   \---Mathematics of Banking and Finance (43)
++---Dhanji R. Prasanna
+|   \---Dependency Injection (1124)
++---Diomidis Spinellis
+|   \---Beautiful Architecture (1054)
++---DJ Patil
+|   \---Data Jujitsu (819)
++---dm126454
+|   \---J2SE and J2EE Performance - Best Pr (349)
++---Dmitriev
+|   \---Understanding Enterprise SOA (1172)
++---Don Jones, Jeffery Hicks
+|   \---Learn PowerShell 3 in a Month of Lu (109)
++---Don Nardo
+|   \---Black Holes (66)
++---Donald E. Knuth
+|   +---Art of Computer Programming, Volume (485)
+|   +---The Art of Computer Programming_ Vo (484)
+|   \---The Art of Computer Programming_ Vo (493)
++---Donald Miner
+|   \---MapReduce Design Patterns (975)
++---Dorothy Graham
+|   \---Experiences of Test Automation_ Cas (288)
++---Dottie
+|   \---Jakarta Commons (339)
++---Doug Lea
+|   \---Concurrent Programming in JavaTM_ D (433)
++---Douglas Dunn
+|   \---Java Rules (369)
++---Dr. Mark Lui
+|   \---Pro Spring Integration (330)
++---Dr. Michael Wu
+|   \---The Science of Social 2 (837)
++---Drew Conway
+|   \---Machine Learning for Hackers (893)
++---Dublin07
+|   \---Apache Camel - Presentation (1152)
++---Duckett, Jon
+|   \---Beginning HTML, XHTML, CSS and Java (234)
++---Dudley Storey
+|   \---Pro CSS3 Animation (207)
++---Dustin Boswell
+|   \---The Art of Readable Code (605)
++---Earle Castledine
+|   \---jQuery_ Novice to Ninja (192)
++---Earp
+|   \---Advanced SQL Functions in Oracle 10 (761)
++---Eben Hewitt
+|   +---Cassandra_ The Definitive Guide (1292)
+|   \---Java SOA Cookbook (1214)
++---Edward Capriolo, Dean Wampler
+|   \---Programming Hive (976)
++---Edward Guiness
+|   \---Ace the Programming Interview (468)
++---Eewei Chen
+|   \---101 Design Ingredients to Solve Big (441)
++---Elijah Meeks
+|   \---D3.js in Action (962)
++---Elisabeth Robson
+|   \---Head First HTML and CSS (230)
++---Emily Bache
+|   \---The Coding Dojo Handbook (599)
++---ERIC A. MARKS
+|   \---Service-Oriented Architecture Gover (1194)
++---Eric A. Meyer
+|   +---CSS and Documents (228)
+|   +---CSS Pocket Reference (226)
+|   \---Values, Units, and Colors (239)
++---Eric Evans
+|   \---Domain-Driven Design_ Tackling Comp (1050)
++---Eric Freeman
+|   +---Head First Design Patterns (732)
+|   \---Head First HTML5 Programming (222)
++---Eric Lehman
+|   \---Mathematics for Computer Science St (455)
++---Eric Redmond, Jim R. Wilson
+|   \---Seven Databases in Seven Weeks (1258)
++---Eric Sammer
+|   \---Hadoop Operations (990)
++---Erik Deckers, Kyle Lacy
+|   \---Branding Yourself (78)
++---Esther Derby
+|   \---Agile Retrospectives_ Making Good T (626)
++---Ethan Cerami
+|   \---Web Services Essentials_ Distribute (1229)
++---Ethan Watrall
+|   \---Head First Web Design (130)
++---Evan M. Glazer, John W. McConnell
+|   \---Real-Life Math_ Everyday use of Math (36)
++---Evan Stubbs
+|   \---Big Data, Big Innovation (1008)
++---Feb.2012
+|   \---Enterprise Software Architecture an (1048)
++---Feduke, Charles
+|   \---Instant RSpec Test Driven Developme (700)
++---Fergal Dearle
+|   \---Groovy for Domain-Specific Language (511)
++---Fernandez-Buglioni, Eduardo
+|   \---Security Patterns in Practice (1082)
++---Flach, Peter
+|   \---Machine Learning (891)
++---Flavio Junqueira
+|   \---ZooKeeper (968)
++---Foster Provost
+|   \---Data Science for Business (845)
++---Frank Buschmann
+|   \---Pattern-Oriented Software Architect (1041)
++---Fred Long
+|   +---JavaTM Coding Guidelines_ 75 Recomm (367)
+|   \---The CERT (r) Oracle (r) Secure Codi (362)
++---Frederick P. Brooks Jr_
+|   \---The Mythical Man-Month, Anniversary (602)
++---Freeman, Adam
+|   \---Pro jQuery (198)
++---From Insight to Implementation
+|   \---Service Design (699)
++---From Zen to Reality
+|   \---Data Architecture (1051)
++---G. Ann Campbell Patroklos P. Papape
+|   \---SonarQube in Action (683)
++---G. Jay Kerns
+|   \---Introduction to Probability and Sta (877)
++---Gabhart
+|   \---Service Oriented Architecture Field (1203)
++---Ganesh Rao (Cepha Imaging INDIA) 48
+|   +---Data Model Patterns (717)
+|   \---Fuzzy Modeling and Genetic Algorith (925)
++---Gary McGraw
+|   \---Software Security_ Building Securit (1080)
++---Gavin Powell
+|   \---Beginning Database Design (807)
++---Gayle Laakmann
+|   \---Cracking the Coding Interview, Four (462)
++---Gayle Laakmann McDowell
+|   \---The Google Resume (469)
++---George Reese
+|   \---Cloud Application Architectures (1141)
++---Giulio Zambon
+|   \---Beginning JSP, JSF and Tomcat_ Java (151)
++---gmekala
+|   \---SQL Performance and Tuning - DB2 - (780)
++---Gojko Adzic
+|   \---Specifcation by Example (708)
++---Grant Fritchey
+|   \---SQL Server 2012 Query Performance T (790)
++---Grant S. Ingersoll
+|   \---Taming Text_ How to Find, Organize, (917)
++---Greg Anthony
+|   \---Iterating Infusion_ Clearer Views o (612)
++---Groovy in Action (2007)
+|   \---Groovy in Action (510)
++---Guided by Tests. 2009 .1Ed
+|   \---Growing Object-Oriented Software, G (297)
++---Guido Schmutz, Daniel Liebhart, Pet
+|   \---Service Oriented Architecture_ An I (1197)
++---Hans-Erik Eriksson
+|   \---Business Modeling With UML_ Busines (688)
++---Hans-Erik Eriksson , Magnus Penker
+|   \---UML 2 Toolkit (692)
++---Harlan Harris, Sean P. Murphy
+|   \---Analyzing the Analyzers (821)
++---Harry He
+|   \---Coding Interviews_ Questions, Analy (464)
++---Harvard Business Review
+|   \---HBR's Must Reads Digital Boxed Set (72)
++---Harvey J. Miller
+|   \---Geographic Data Mining and Knowledg (926)
++---Hector Guerrero
+|   \---Excel Data Analysis_ Modeling and S (904)
++---Heidi Hanna
+|   \---The Sharp Solution_ A Brain-Based Approa (5)
++---Helen Whelan
+|   \---OAuth - The Big Picture (1059)
++---Henning Kagermann, Hubert Osterle,
+|   \---IT-Driven Business Models_ Global C (693)
++---Holly Cummins, Timothy Ward
+|   \---Enterprise OSGi in Action (1108)
++---http___avaxhome.ws_blogs_igor_lv
+|   \---Java 8 in Action_ Lambdas, Streams, (380)
++---Hunter Whitney
+|   \---Data Insights_ New Ways to Visualiz (929)
++---Hurwitz, Judith
+|   \---Big Data For Dummies(r) (1010)
++---Ian Dees, Matt Wynne, Aslak Helleso
+|   \---Cucumber Recipes (707)
++---Ian Gorton
+|   \---Essential Software Architecture, Se (1049)
++---Ian Lloyd
+|   \---Build Your Own Website The Right Wa (232)
++---Ian Molyneaux
+|   \---The Art of Application Performance (304)
++---Ian Pouncey
+|   \---Beginning CSS_ Cascading Style Shee (238)
++---Ian Robinson, Jim Webber
+|   \---Graph Databases (1279)
++---IBM
+|   +---Patterns_ SOA with an Enterprise Se (1163)
+|   \---SOA Approach to Enterprise Integrat (1189)
++---Igor
+|   \---SCWCD Exam Study Kit - Java Web Com (396)
++---Instructional Apps Support
+|   \---Fundamental UNIX Commands (266)
++---Integration Testing for Java (Manni
+|   \---Arquillian Testing Guide (302)
++---Introducing Monte Carlo Methods
+|   \---Introducing Monte Carlo Methods wit (868)
++---J. Chris Anderson
+|   \---CouchDB_ The Definitive Guide (1283)
++---J. M. Hughes
+|   \---Real World Instrumentation with Pyt (544)
++---J. Steven Perry
+|   \---Java Management Extensions (343)
++---Jack Franklin
+|   \---Beginning jQuery (191)
++---James A. Whittaker
+|   \---How Google Tests Software (298)
++---James Governor
+|   \---Web 2.0 Architectures (133)
++---James McGovern
+|   \---Java Web Services Architecture (The (1245)
++---James O. Coplien
+|   \---Lean Architecture_ For Agile Softwa (650)
++---James Pustejovsky
+|   \---Natural Language Annotation for Mac (897)
++---James Rumbaugh
+|   \---The Unified Modeling Language Refer (689)
++---James Turnbull
+|   \---The Logstash Book (1113)
++---Jannach, Dietmar
+|   \---Recommender Systems (841)
++---Jason McColm Smith
+|   \---Elemental Design Patterns (730)
++---Jason Strate , Ted Krueger
+|   \---Expert Performance Indexing for SQL (787)
++---Jay Jacobs
+|   \---Data-Driven Security_ Analysis, Vis (835)
++---Jean-Louis Boulanger
+|   \---Static Analysis of Software_ The Ab (849)
++---Jeanine Meyer
+|   \---HTML 5 and JavaScript Projects (219)
++---Jeff Atwood
+|   \---Effective Programming_ More Than Wr (616)
++---Jeff Davis
+|   \---Open Source SOA (1208)
++---Jeff Friesen
+|   \---Beginning Java 7 (357)
++---Jeff Langr, Tim Ottinger
+|   \---Agile in a Flash (627)
++---Jeff Scott Brown
+|   \---The Definitive Guide to Grails 2 (515)
++---Jeffrey E. F. Friedl
+|   \---Mastering Regular Expressions (446)
++---Jeffrey Pfeffer
+|   \---Power_ Why Some People Have Itand Ot (80)
++---Jenifer Tidwell
+|   \---Designing Interfaces (117)
++---Jennifer Golbeck
+|   \---Analyzing the Social Web (908)
++---Jeremy
+|   \---DependencyInjection (1125)
++---Jeremy Leipzig
+|   \---Data Mashups in R (885)
++---Jeroen Janssens
+|   \---Data Science at the Command Line (815)
++---Jerome Louvel, Thierry Templier, Th
+|   \---Restlet in Action (1236)
++---Jerri L. Ledford, Joe Teixeira, Mar
+|   \---Google Analytics, 3rd Edition (900)
++---Jesse Storimer
+|   \---Working with Unix Processes (269)
++---Jim Cox
+|   \---Concise Guide to Economics (97)
++---Jim Marino
+|   \---Understanding SCA (Service Componen (1018)
++---Jim Waldo
+|   \---Java_ The Good Parts (372)
++---Joe Celko
+|   \---Joe Celko's Complete Guide to NoSQL (1263)
++---Joe Rosen
+|   \---Symmetry Rules (68)
++---Joel Grus
+|   \---Data Science from Scratch (818)
++---Johanna Rothman
+|   \---Behind Closed Doors_ Secrets of Grea (82)
++---Johannes Ledolter
+|   \---Data Mining and Business Analytics (937)
++---John Allspaw
+|   \---The Art of Capacity Planning_ Scali (1097)
++---John Bambenek
+|   \---grep Pocket Reference (267)
++---John C. Hull
+|   \---Options, Futures and Other Derivati (106)
++---John C. Maxwell
+|   \---The 21 Irrefutable Laws of Leadershi (87)
++---John Derbyshire
+|   \---Prime Obsession (42)
++---John Dooley
+|   \---Software Development and Profession (604)
++---John Evdemon
+|   \---Service Oriented Architecture (SOA) (1196)
++---John Hunt
+|   \---Agile Software Construction (628)
++---John M. Quick
+|   \---Statistical Analysis with R (865)
++---John Maindonald, W. John Braun
+|   \---Data Analysis and Graphics Using R (886)
++---John Michelsen
+|   \---Service Virtualization (1154)
++---John Mongan, Eric Giguere
+|   \---Programming Interviews Exposed_ Sec (456)
++---John Purcell
+|   \---Linux Complete Command Reference (274)
++---John Verzani
+|   \---Getting Started with RStudio (883)
++---John Zablocki
+|   \---Couchbase Essentials (1286)
++---Jon Bentley
+|   \---Programming Pearls (2nd Edition) (487)
++---Jon Loeliger
+|   \---Version Control with Git (673)
++---Jonathan Chaffer
+|   \---jQuery 1.4 Reference Guide (188)
++---Jonathan Gennick
+|   \---SQL Pocket Guide (749)
++---Jonathan Knudsen
+|   \---Java Cryptography (Java Series) (1063)
++---Jonathan Leibiusky, Gabriel Eisbruc
+|   \---Getting Started with Storm (970)
++---Jonathan Lewis
+|   \---Oracle Core_ Essential Internals fo (754)
++---Jonathan Rasmusson
+|   \---The Agile Samurai_ How Agile Master (635)
++---Jono Bacon
+|   \---The Art of Community, Second Editio (1024)
++---Jos Dirksen
+|   \---SOA Governance in Action (1183)
++---Joseph A Raelin
+|   \---The Leaderful Handbook (85)
++---Joseph Adler
+|   \---R in a Nutshell_ A Desktop Quick Re (870)
++---Joseph J Rotman
+|   \---Advanced Modern Algebra (27)
++---Josh Carter
+|   \---New Programmer's Survival Manual (610)
++---Josh Long
+|   \---Getting Started with Roo (318)
++---Joshua Backfield
+|   \---Becoming Functional (502)
++---Joshua Foer
+|   \---Moonwalking With Einstein_ The Art a (69)
++---Joshua Kerievsky
+|   \---Refactoring to Patterns (Addison-We (1297)
++---Josiah L. Carlson
+|   \---Redis in Action (1268)
++---Jothy Rosenberg, Arthur Mateos
+|   \---The Cloud at Your Service (1143)
++---Judith E. Glaser
+|   \---Conversational Intelligence (74)
++---Juha Lindfors
+|   \---JMX_ Managing J2EE With Java Manage (346)
++---Jurg van Vliet
+|   \---Programming Amazon EC2 (1126)
++---Jurg van Vliet, Flavia Paganelli
+|   \---Resilience and Reliability on AWS (1127)
++---jwetzel
+|   \---Service-Oriented Software System En (1191)
++---jwortzman
+|   \---Better Builds With Maven (680)
++---Ka Wai Cheung
+|   \---The Developer's Code (600)
++---Kadavy, David
+|   \---Design for Hackers (143)
++---Kaisler, Stephen H_
+|   \---Software Paradigms (1031)
++---karen.whelton
+|   \---Understanding the ESB (1161)
++---Karl Seguin
+|   \---The Little MongoDB Book (1276)
++---Kathleen Ting
+|   \---Apache Sqoop Cookbook (980)
++---Ken Pugh
+|   \---Interface Oriented Design_ With Pat (695)
++---Ken Robinson
+|   \---Finding Your Element_ How to Discover Yo (9)
++---Kenneth A. Kousen
+|   \---Making Java Groovy (512)
++---Kent Beck
+|   +---Extreme Programming Explained_ Embr (662)
+|   \---Planning Extreme Programming (663)
++---Kent Ka Lok Tong
+|   \---Developing Web Services With Apache (1251)
++---Kevin J. Schmidt
+|   \---Programming Elastic MapReduce (986)
++---Kevin W. Grossman
+|   \---Tech Job Hunt Handbook (460)
++---Kevlin Henney
+|   \---97 Things Every Programmer Should K (589)
++---Kirk Knoernschild
+|   \---Java Design_ Objects, UML, and Proc (338)
++---Kord Davis
+|   \---Ethics of Big Data (1004)
++---Kristina Chodorow
+|   \---MongoDB_ The Definitive Guide, Seco (1274)
++---Kyle Banker
+|   \---MongoDB in Action (1272)
++---Kyle Loudon
+|   \---Developing Large Web Applications (111)
++---Lander, Jared P_
+|   \---R for Everyone_ Advanced Analytics (872)
++---Larose
+|   \---Discovering Knowledge in Data_ An I (930)
++---Larry Pace
+|   \---Beginning R_ An Introduction to Sta (862)
++---Larry Ullman
+|   \---Modern JavaScript_ Develop and Desi (170)
++---Lasse Koskela
+|   \---Effective Unit Testing (310)
++---Learningexpress Editors
+|   \---SAT Math Essentials (34)
++---Lee Ackerman, Celso Gonzalez
+|   \---Patterns-Based Engineering_ Success (1036)
++---Lee Allen
+|   \---Advanced Penetration Testing For Hi (296)
++---Lee Holmes
+|   \---Windows PowerShell Pocket Reference (108)
++---Lee Smolin
+|   \---The Trouble With Physics_ The Rise o (59)
++---Len Bass
+|   \---Software Architecture in Practice, (1028)
++---Leon Shklar , Richard Rosen
+|   \---Web Application Architecture_ Princ (1058)
++---Leonard Richardson
+|   \---RESTful Web APIs (1235)
++---Leonid Grinshpan
+|   \---Solving Enterprise Applications Per (303)
++---Leslie Sikos
+|   \---Web Standards (237)
++---Liguori, Robert
+|   \---OCA Java SE 7 Programmer I Study Gu (397)
++---Lior Rokach
+|   \---Data Mining With Decision Trees The (928)
++---Liu, Henry H_
+|   +---Oracle Database Performance and Sca (773)
+|   \---Software Performance and Scalabilit (1102)
++---Logical Design 5th Ed
+|   \---Database Modeling and Design (797)
++---Luis Torgo
+|   \---Data Mining With R_ Learning With C (880)
++---Luke Dormehl
+|   \---The Formula_ How Algorithms Solve A (440)
++---Luke Hohmann
+|   \---Beyond Software Architecture_ Creat (1053)
++---Lutz Hering, Heike Hering
+|   \---How to Write Technical Reports_ Und (1120)
++---Lynn Beighley
+|   \---Head First SQL (794)
++---Madhusudhan Konda
+|   +---Just Spring (317)
+|   +---Just Spring Data Access (326)
+|   \---Just Spring Integration (328)
++---Making the most of both-InfoQ (2010
+|   \---Kanban And Scrum (648)
++---Manning
+|   \---Hibernate Quickly (411)
++---Manning (2013)
+|   \---OCA Java SE 7 Programmer I Certific (399)
++---Mar.2006
+|   \---The Art of SQL - Oreilly (751)
++---Marcus Hammarberg Joakim Sunden
+|   \---Kanban in Action (646)
++---Marijn Haverbeke
+|   \---Eloquent JavaScript (180)
++---Mario E. Moreira
+|   \---Being Agile (637)
++---Mark C. Chu-Carroll
+|   \---Good Math (40)
++---Mark Cade
+|   \---Sun Certified Enterprise Architect (395)
++---Mark E. Daggett
+|   \---Expert JavaScript (178)
++---Mark Fisher, Jonas Partner, Marius
+|   \---Spring Integration in Action (329)
++---Mark Levy
+|   \---Accidental Genius_ Using Writing to (76)
++---Mark Lutz
+|   +---Programming Python (523)
+|   \---Python Pocket Reference (518)
++---Mark Masse
+|   \---REST API Design Rulebook (1256)
++---Mark Pollack, Oliver Gierke, Thomas
+|   \---Spring Data (327)
++---Mark Richards
+|   +---Java Message Service (406)
+|   +---Java Transaction Design Strategies (348)
+|   \---Transaction Strategies (347)
++---Mark Skousen
+|   \---The Big Three In Economics (98)
++---Mark Smiciklas
+|   \---The Power of Infographics_ Using Pi (946)
++---Markus Gartner
+|   \---ATDD by Example_ A Practical Guide (709)
++---Markus Winand
+|   \---SQL Performance Explained Everythin (785)
++---Marshall Goldsmith, John Baldoni, Sa
+|   \---The AMA Handbook of Leadership (84)
++---Martha Sherman
+|   \---SOA 100 Success Secrets - 100 Most (1167)
++---Martin Bach
+|   \---Expert Consolidation in Oracle Data (763)
++---Martin Fowler
+|   +---Domain-Specific Languages (Addison- (696)
+|   +---NoSQL Distilled_ A Brief Guide to th (3)
+|   +---Refactoring_ Improving the Design o (728)
+|   \---UML Distilled (691)
++---Martin Kalin
+|   \---Java Web Services_ Up and Running (1247)
++---Mary Poppendieck
+|   \---Implementing Lean Software Developm (614)
++---Matt Lamothe
+|   \---The Where, the Why, and the How (63)
++---Matt Massie, Bernard Li, Brad Nicho
+|   \---Monitoring with Ganglia (1116)
++---Matt Telles
+|   \---Python Power!_ The Comprehensive Gu (546)
++---Matt Wynne, Aslak Hellesoy
+|   \---The Cucumber Book (704)
++---Matthew A. Russell
+|   \---Mining the Social Web (921)
++---Maurice Naftalin
+|   \---Java Generics and Collections (368)
++---Max Kanat-Alexander
+|   \---Code Simplicity (623)
++---Max Katz
+|   \---Practical RichFaces, Second Edition (161)
++---Max Shron
+|   \---Thinking with Data (824)
++---May 2006
+|   \---Pro Java EE 5 Performance Managemen (354)
++---May 2007
+|   \---xUnit Test Patterns - Refactoring T (291)
++---MC Brown
+|   +---Developing with Couchbase Server (1287)
+|   +---Getting Started with Couchbase Serv (1288)
+|   \---Getting Started with CouchDB (1285)
++---Mehmed Kantardzic
+|   \---Data Mining_ Concepts, Models, Meth (938)
++---Michael Bell
+|   \---SOA Modeling Patterns for Service O (1179)
++---Michael Bevilacqua-Linn
+|   \---Functional Programming Patterns in (500)
++---Michael Bowers, Dionysios Synodinos
+|   \---Pro HTML5 and CSS3 Design Patterns (208)
++---Michael Feathers
+|   \---Working Effectively With Legacy Cod (1296)
++---Michael Genesereth
+|   \---Data Integration_ The Relational Lo (890)
++---Michael Hugos, Derek Hulitzky
+|   \---Business in the Cloud_ What Every B (1142)
++---Michael J Crawley
+|   \---The R Book - 2nd Ed (863)
++---Michael J. Crawley
+|   \---The R Book (866)
++---Michael J. Hernandez
+|   \---Database Design for Mere Mortals(r) (800)
++---Michael Juntao Yuan, Thomas Heute
+|   \---JBoss Seam (125)
++---Michael Kircher
+|   \---Pattern-Oriented Software Architect (1038)
++---Michael Manoochehri
+|   \---Data Just Right_ Introduction to La (817)
++---Michael Morrison
+|   \---Head First JavaScript (182)
++---Michael P. McGrath
+|   \---Understanding PaaS (1021)
++---Michael Rosen
+|   \---Applied SOA Service-Oriented (1168)
++---Michael S. Mikowski, Josh C. Powell
+|   \---Single Page Web Applications (203)
++---Michael T. Minella
+|   \---Pro Spring Batch (324)
++---Michal Bali
+|   \---Drools JBoss Rules 5.0 Developer's (1160)
++---Mick Thompson
+|   \---Getting Started with GEO, CouchDB, (1284)
++---Microsoft Excel
+|   \---Pivot Table - Data Crunching (901)
++---Mike Allerhand
+|   \---A Tiny Handbook of R (SpringerBrief (859)
++---Mike Barlow
+|   \---Real-Time Big Data Analytics_ Emerg (826)
++---Mike Dewar
+|   \---Getting Started with D3 (965)
++---Mike Loukides
+|   \---What Is Data Science_ (822)
++---Mitchell, Ryan(Author)
+|   \---Instant Web Scraping with Java (334)
++---MK (2013)
+|   \---Cloud Computing Theory and Practice (1140)
++---Morgan.Claypool. (Sep.2010)
+|   \---Database Replication (737)
++---Morin, Pat(Author)
+|   \---Open Data Structures_ An Introducti (478)
++---Muhammad Ali Babar
+|   \---Agile Software Architecture (640)
++---Muriel Mandell
+|   \---Fantastic Book of Logic Puzzles (20)
++---Myatt, Glenn J.,Johnson, Wayne P_
+|   +---Making Sense of Data Vol 1 (912)
+|   +---Making Sense of Data Vol 2 (915)
+|   \---Making Sense of Data Vol 3 (911)
++---Nadir Gulzar
+|   \---Practical J2EE Application Architec (1033)
++---Nathan Marz, James Warren
+|   \---Big Data (996)
++---Nathan Yau
+|   +---Data Points_ Visualization That Mea (940)
+|   \---Visualize This (944)
++---Neal Ford
+|   +---Art of Java Web Development (112)
+|   \---Functional Thinking (501)
++---Neil Degrasse Tyson
+|   +---Death by Black Hole_ And Other Cosmi (60)
+|   \---Origins_ Fourteen Billion Years of C (56)
++---Nicholas C. Zakas
+|   +---High Performance JavaScript (177)
+|   \---Wrox_ Professional Ajax - 2E (255)
++---Nicholas Carr
+|   \---The Shallows - What the Internet is (10)
++---Nicholas Marsh
+|   +---Introduction to the Command Line (S (272)
+|   \---The J2EE Architect's Handbook (401)
++---nicolas
+|   \---Agile with Guts (639)
++---Nicolas Turenne
+|   \---Knowledge Needs and Information Ext (924)
++---Nicole Garbolino
+|   \---Enterprise Integration Patterns - P (1149)
++---Nikola Breznjak
+|   \---Getting MEAN with MEMEs (1295)
++---Nishant Garg
+|   \---Learning Apache Kafka - Second Edit (967)
++---Noah Iliinsky
+|   \---Designing Data Visualizations (954)
++---Noel Markham
+|   \---Java Programming Interviews Exposed (459)
++---Norman Matloff
+|   \---The Art of R Programming (864)
++---O'Reilly (Aug 2008)
+|   \---Refactoring SQL Applications (811)
++---O'Reilly Radar Team
+|   \---Planning for Big Data (1002)
++---Object Oriented Programming
+|   \---Python 3 (519)
++---Ohad Samet
+|   \---Introduction to Online Payments Ris (1065)
++---ooza
+|   \---Puzzle Book (21)
++---OReilly
+|   \---Think Stats (855)
++---OReilly (2008)
+|   \---Statistics in a nutshell (848)
++---OReilly (2010)
+|   \---Being Geek - The Software Developer (470)
++---OReilly (2012)
+|   \---Building Hypermedia APIs with HTML5 (181)
++---OReilly (2013)
+|   \---Disruptive Possibilities (833)
++---OReilly (Oct 2007)
+|   \---The Art of Agile Development (631)
++---Owner
+|   \---Head First Java (376)
++---Packt
+|   +---Google Visualization API Essentials (949)
+|   +---Hibernate Search by Example (412)
+|   \---Responsive Web Design with HTML5 an (247)
++---Packt (2012)
+|   \---Spring Security 3.1 (1079)
++---Packt (2013)
+|   \---Getting Started with NoSQL (1260)
++---Packt 2013
+|   +---Git Version Control for Everyone (670)
+|   \---ZeroMQ (Packt) (404)
++---PacktPub (Jul 2013)
+|   +---Hadoop Operations and Cluster Manag (988)
+|   \---Object-Oriented JavaScript - 2nd.Ed (168)
++---Paco Hope
+|   \---Web Security Testing Cookbook (1077)
++---Partha Kuchana
+|   \---Software Architecture Design Patter (1032)
++---Patrick Burns
+|   \---The R Inferno (869)
++---Patrick Cauldwell
+|   \---Code Leader (79)
++---Patrick McCuller
+|   \---How to Recruit and Hire Great Softw (463)
++---Patrick Niemeyer
+|   \---Learning Java (366)
++---Paul B. Monday
+|   \---Web Service Patterns_ Java Edition (1225)
++---Paul Barry
+|   \---Head First Python (524)
++---Paul Butcher
+|   \---Seven Concurrency Models in Seven W (427)
++---Paul Evitts
+|   \---A UML Pattern Language (Software En (690)
++---Paul J. Perrone
+|   \---J2EE Developer's Handbook (Develope (340)
++---Paul Teetor
+|   \---R Cookbook (O'Reilly Cookbooks) (875)
++---Paulraj Ponniah
+|   \---Data Warehousing Fundamentals for I (927)
++---pautasso
+|   \---REST Design Patterns and Anti-Patte (1230)
++---Pearson (2011)
+|   \---Lean-Agile Acceptance Test-Driven D (1293)
++---Pete Warden
+|   +---Big Data Glossary (1007)
+|   \---Data Source Handbook (816)
++---Peter Dalgaard
+|   \---Introductory Statistics With R (Sta (876)
++---Peter Gulutzan
+|   \---SQL Performance Tuning (788)
++---Peter Lubbers, Brian Albers, Frank
+|   \---Pro HTML5 Programming, Second Editi (248)
++---Peter M. Higgins
+|   \---Number Story - From Counting to Cryp (39)
++---Peter Olofsson
+|   \---Probabilities - The Little Numbers T (54)
++---Peter Zadrozny
+|   \---Big Data Analytics Using Splunk (973)
++---Petzold, Charles
+|   \---CODE - The Hidden Language of Compu (445)
++---Philipp K. Janert
+|   \---Data Analysis with Open Source Tool (846)
++---Philippe Mathis
+|   \---Graphs and Networks (475)
++---Pocket Reference
+|   +---CSS (229)
+|   \---Regular Expression (447)
++---Pragmatic 2008
+|   \---Pragmatic Version Control Using Git (667)
++---Preparing, Sharing
+|   \---Principles of Big Data (1000)
++---Principles
+|   +---Advanced Network Programming (392)
+|   \---Data Visualization (957)
++---Principles of Services
+|   \---SOA_ Principles of Service Design (1192)
++---Programmer study guide
+|   \---Oracle Certified Associate Java SE (398)
++---Q. Ethan McCallum
+|   +---Bad Data Handbook (840)
+|   \---Parallel R (878)
++---R. K. Narayan
+|   \---Swami and Friends (2)
++---R. Meredith Belbin
+|   \---Team Roles at Work (Second Edition) (81)
++---Rachel Andrew
+|   \---The CSS3 Anthology (244)
++---Rachel Davies
+|   \---Agile Coaching (629)
++---Rachel Schutt
+|   \---Doing Data Science (836)
++---Raffaele Cecco
+|   \---Supercharged JavaScript Graphics (164)
++---Raghava Rao K
+|   \---Introduction to design analysis of (490)
++---Rajkumar Buyya
+|   \---Mastering Cloud Computing_ Foundati (1133)
++---Rally Software
+|   \---Object Calisthenics (608)
++---Ramnivas Laddad
+|   \---AspectJ in Action, Second Edition (435)
++---Rance D. Necaise
+|   \---Data Structures and Algorithms Usin (536)
++---Randal K. Michael
+|   \---Mastering Unix Shell Scripting (275)
++---Randall Munroe
+|   \---What If_ Serious Scientific Answers (62)
++---Rational Software Corporation
+|   \---Architectural Blueprints--The _4_1_ (1022)
++---Raynal, Michel
+|   \---Concurrent Programming - Algorithms (429)
++---Rene Enriquez
+|   \---RESTful Java Web Services Security (1254)
++---REST eMag (Mar 2010)
+|   \---InfoQ Explores REST (1250)
++---Richard Brath
+|   \---Graph Analysis and Visualization (1257)
++---Richard E. Silverman
+|   \---Git Pocket Guide (671)
++---Richard Monson-Haefel
+|   \---97 Things Every Software Architect (1017)
++---Richard T. Snodgrass
+|   \---Developing Time-Oriented Database A (793)
++---Richard Warburton
+|   \---Java 8 Lambdas (419)
++---Richert, Willi, Coelho, Luis Pedro
+|   \---Building Machine Learning Systems w (896)
++---Rick Copeland
+|   +---Essential SQLAlchemy (530)
+|   \---MongoDB Applied Design Patterns (1273)
++---RICK01
+|   \---Java 7 Recipes - A Problem-Solution (371)
++---rjc
+|   \---Integration Patterns (715)
++---Rob Larsen
+|   \---Beginning HTML and CSS (236)
++---Robert C. Martin
+|   \---The Clean Coder_ A Code of Conduct (601)
++---Robert Crowther
+|   \---Hello! HTML5 and CSS3 (220)
++---Robert Daigneau
+|   \---Service Design Patterns_ Fundamenta (1201)
++---Robert Englander
+|   \---Java and SOAP (1249)
++---Robert G. Hagstrom
+|   \---The Warren Buffett Way, Second Editi (88)
++---Robert I. Kabacoff
+|   \---R in Action_ Data analysis and grap (871)
++---Robert Miller
+|   \---Bob Miller's Sat Math for the Cluele (33)
++---Robert Oman, Daniel Oman
+|   \---Calculus for the Utterly Confused (47)
++---ROBERT SEDGEWICK - Simon Plouffe
+|   \---Algorithms (480)
++---Robert Sedgewick; Philippe Flajolet
+|   \---An Introduction to the Analysis of (481)
++---Robert Ubell
+|   \---Virtual Teamwork_ Mastering the Art (86)
++---Robert W. Kolb, James A. Overdahl
+|   \---Financial Derivatives, 3rd Edition (102)
++---Roman Pichler
+|   \---Agile Product Management With Scrum (659)
++---Ron Fry
+|   \---101 Great Answers to the Toughest I (467)
++---Ron Hitchens
+|   \---Java NIO (390)
++---Ronald L. Krutz, Russell Dean Vines
+|   \---Cloud Security_ A Comprehensive Gui (1134)
++---Rountree, Derrick, Castrillo, Ilean
+|   \---The Basics of Cloud Computing (1128)
++---Russ Unger
+|   \---A Project Guide to UX Design (135)
++---Russell Bradberry
+|   \---Practical Cassandra_ A Developer's (1289)
++---Russell Jurney
+|   \---Agile Data Science (825)
++---Ryan Benedetti
+|   \---Head First jQuery (189)
++---Ryan Boyd
+|   \---Getting Started with OAuth 2.0 (1066)
++---S G Ganesh
+|   \---Oracle Certified Professional Java (394)
++---Safari Books Online LLC
+|   +---Algorithms in a Nutshell (482)
+|   +---Designing Great Data Products (834)
+|   +---Implementation Patterns (729)
+|   +---Java Application Architecture_ Modu (1106)
+|   \---Understanding DB2(r)_ Learning Visu (779)
++---Sam Atkinson
+|   \---Java Interview Bootcamp (471)
++---Sam Lightstone
+|   \---Making It Big in Software_ Get the (613)
++---Sam Newman
+|   \---Building Microservices (1223)
++---Sam R. Alapati, Darl Kuhn, Bill Pad
+|   \---Oracle Database 11g Performance Tun (776)
++---Samudra Gupta
+|   \---Pro Apache Log4j, Second Edition (1112)
++---Sanjoy Dasgupta
+|   \---Algorithms (494)
++---Satnam Alag
+|   \---Collective Intelligence in Action (895)
++---Saxon
+|   \---The Ultimate IQ Test Book (23)
++---Schmidt, Richard
+|   \---Software Engineering_ Architecture- (1046)
++---Schmuller, Joseph
+|   \---Statistical Analysis with Excel(r) (853)
++---Schumacker, Randall
+|   \---Understanding Statistics Using R (861)
++---Scott Allen
+|   \---HTTP Succinctly (205)
++---Scott Davis
+|   \---Groovy Recipes_ Greasing the Wheels (509)
++---Scott Millett
+|   \---Patterns, Principles, and Practices (703)
++---Scott Oaks
+|   \---Java Security (Java Series) (1061)
++---Scrum
+|   +---Essential Scrum_ A Practical Guide (655)
+|   +---Executable Specifications with Scru (657)
+|   +---Scrum in Action (654)
+|   +---Scrum Shortcuts without Cutting Cor (656)
+|   +---Succeeding with Agile - Software De (658)
+|   +---The Agile Pocket Guide - Agile Usin (660)
+|   \---The Professional ScrumMaster's Hand (661)
++---Sean Owen, Robin Anil, Ted Dunning,
+|   \---Mahout in Action (892)
++---Serge Demeyer
+|   \---Object-Oriented Reengineering Patte (716)
++---Sharon L. Lechter Robert T. Kiyosaki
+|   \---Rich Dad, Poor Dad (99)
++---Shashank Tiwari
+|   \---Professional NoSQL (1261)
++---Sheldon M. Ross
+|   \---A First Course in Probability (55)
++---Shelley Powers
+|   +---Adding Ajax (259)
+|   +---JavaScript Cookbook (176)
+|   \---Learning Node (186)
++---Sheryl M. Larsen
+|   \---Top Ten SQL Performance Tips - Whit (786)
++---shor03
+|   +---Pro Git (668)
+|   \---Pro SpringSource dm Server (313)
++---Sikha Bagui
+|   \---Database Design Using Entity-Relati (799)
++---Silberschatz, Galvin, Gagne
+|   \---Operating System Concepts 9th Ed (450)
++---Simon Brown
+|   \---Software Architecture for Developer (1030)
++---Simon, Phil
+|   \---Too Big to Ignore (999)
++---Sir Arthur Conan Doyle
+|   \---The Complete Sherlock Holmes (2 Volu (19)
++---sirius
+|   \---Lucene in Action_ 2nd Ed (1092)
++---Smashing
+|   \---smashing-ebook-14 (193)
++---SOA
+|   \---The New Language of Business (1173)
++---SOA Strategy, Methodology
+|   \---Service-Oriented Architecture_ SOA (1195)
++---Soumen Chakrabarti
+|   \---Data Mining_ Know It All (936)
++---Soumendra Mohanty
+|   \---Big Data Imperatives (1009)
++---Spiegel, Murray R.; Schiller, John J
+|   \---Probability and Statistics (32)
++---Springer (2011)
+|   \---Encyclopedia of Cryptography and Se (1072)
++---Sriranga Veeraraghavan
+|   \---Sams Teach Yourself Shell Programmi (281)
++---Stan Gibilisco
+|   \---Technical Math - Demystified (29)
++---Star Trek
+|   \---How to Answer The 64 Toughest Inter (461)
++---Stefan Bente
+|   \---Collaborative Enterprise Architectu (1055)
++---Stephen D. Burd
+|   \---Systems Architecture, Sixth Edition (1025)
++---Stephen Few
+|   \---Inforamtion Dashboard Design (948)
++---Stephen H. Kan
+|   \---Metrics and Models in Software Qual (685)
++---Stephen Hawking
+|   \---A Brief History of Time (64)
++---Stephen O'Grady
+|   \---The Software Paradox (439)
++---Stephen Vance
+|   \---Quality Code_ Software Testing Prin (293)
++---Steve 'Cutter' Blades
+|   \---Learning ExtJS (199)
++---Steve Fulton
+|   \---HTML5 Canvas (216)
++---Steve Krug
+|   +---Don't Make Me Think, Revisited_ A C (134)
+|   \---Don't Make Me Think_ A Common Sense (136)
++---Steve Suehring
+|   \---JavaScript Step by Step, Third Edit (179)
++---Steven D. Levitt
+|   \---Freakonomics_ A Rogue Economist Expl (94)
++---Strategy, Standard
+|   \---Java Data Mining (923)
++---Subbu Allamaraju
+|   \---RESTful Web Services Cookbook (1233)
++---Sun Microsystems, Inc_
+|   +---Designing Manageable JavaTM EE Plat (342)
+|   \---Java Technology Performance Myths E (351)
++---Susan Chiu
+|   \---Data Mining and Market Intelligence (932)
++---Susan Fowler
+|   \---Web Application Design Handbook (120)
++---Susan Stevens
+|   +---From Bash to Z Shell (276)
+|   +---Oracle Database 11g (774)
+|   \---Troubleshooting Oracle Performance (767)
++---Susan Weinschenk
+|   \---100 Things Every Designer Needs to (139)
++---Sweeney, Rick
+|   \---Achieving Service-Oriented Architec (1166)
++---Sybex (2013)
+|   \---Cloud Essentials - CompTIA Authoriz (1135)
++---Talita Telma
+|   +---Professional Web Design - Volume 2 (116)
+|   +---Typography - Getting the Hang of We (115)
+|   \---Web Design & Development (122)
++---TEAM LinG
+|   +---Beginning Algorithms (479)
+|   \---Relational Database Index Design an (810)
++---Techniques for Decompiling, Patchin
+|   \---Covert Java (333)
++---Ted Dunning
+|   \---Time Series Databases (1266)
++---Terence Craig
+|   \---Privacy and Big Data (1001)
++---Terence Parr
+|   +---Language Implementation Patterns_ C (437)
+|   \---The Definitive ANTLR 4 Reference (436)
++---Terrence Ryan
+|   \---Driving Technical Change (618)
++---Thanh Dung TRUONG
+|   \---youdontknowjs (163)
++---The Definitive Guide
+|   \---HTTP - The Definitive Guide (204)
++---The Pragmatic Programmer (2011)
+|   \---Lean from the Trenches - Managing L (647)
++---The Pragmatic Programmers
+|   \---Pragmatic Thinking and Learning (609)
++---The Pragmatic Programmers (2009)
+|   \---Grails - A Quick-Start Guide (Octob (513)
++---The Pragmatic Programmers, LLC (#17
+|   \---Pragmatic Unit Testing (308)
++---The Saint
+|   \---Complete Idiots Guide to Zen Living. (73)
++---The Top 5 ways to get started
+|   \---The top five ways to get started wi (831)
++---TheDark
+|   \---Java Concurrency In Practice (430)
++---Theophano Mitsa
+|   \---Temporal Data Mining (Chapman & Hal (918)
++---Thomas
+|   \---Professional Web Design - Volume 2 (126)
++---Thomas Erl
+|   +---Cloud Computing_ Concepts, Technolo (1131)
+|   +---Service-Oriented Architecture_ Conc (1199)
+|   +---SOA Design Patterns (The Prentice H (1218)
+|   \---SOA with REST_ Principles, Patterns & Co (16)
++---Thomas H. Cormen, Charles E. Leiser
+|   \---Introduction to Algorithms, Third E (492)
++---Thomas J. Bergin
+|   \---History of Programming Languages II (444)
++---Thomas L. Friedman
+|   \---The Lexus and the Olive Tree (90)
++---Thoughtworks Inc_
+|   +---The ThoughtWorks Anthology, Volume (595)
+|   \---The ThoughtWorks Anthology_ Essays (592)
++---Tim Berglund
+|   +---Building and Testing with Gradle (677)
+|   \---Gradle Beyond the Basics (678)
++---Tim O'Reilly, Julie Steele, Mike Lo
+|   \---How Data Science Is Transforming He (832)
++---Timothy Gowers
+|   \---The Princeton Companion to Mathemati (49)
++---Tobias Dantzig
+|   \---Number - The Language of Science (45)
++---Toby J. Teorey
+|   \---Database Design_ Know It All (803)
++---Todd Biske (2008)
+|   \---SOA Governance (1181)
++---Tom Barker
+|   \---Pro JavaScript Performance (174)
++---Tom White
+|   \---Hadoop_ The Definitive Guide (985)
++---tomhotch
+|   \---Performance of Fractal-Tree Databas (789)
++---Travis Swicegood
+|   \---Pragmatic Guide to Git (Pragmatic G (669)
++---Trey Grainger Timothy Potter
+|   \---Solr in Action (1094)
++---Troy McMillan
+|   \---Cisco Networking Essentials (454)
++---Unknown
+|   +---2 Phase Commit - Article (1045)
+|   +---50 tips and tricks for mongodb deve (1275)
+|   +---A Career Changer's Checklist (465)
+|   +---A DB2 Performance Tuning Roadmap (781)
+|   +---A Practical Guide to Data Structure (476)
+|   +---Advanced Web Services (2013) (1226)
+|   +---Advanced-API-Security-Prabath-Siriw (1074)
+|   +---Agile ALM (630)
+|   +---Agile IT Security Implementation Me (1073)
+|   +---Agile Software Requirements (643)
+|   +---Agile Testing (289)
+|   +---Ajax - The Definitive Guide (258)
+|   +---Ajax in Action (254)
+|   +---Ajax in Practice (261)
+|   +---Ajax.For.Dummies.Feb.2006 (256)
+|   +---All about Stocks (104)
+|   +---An Introduction to Network Programm (393)
+|   +---Anti Patterns (712)
+|   +---Apache Camel Developer's Cookbook (1151)
+|   +---Apache JMeter (305)
+|   +---Apache Maven 3 Cookbook (681)
+|   +---Apache Solr 4 Cookbook (1091)
+|   +---Apache Tomcat 7 (2011) (249)
+|   +---Apache Wicket Cookbook (150)
+|   +---Application Performance Management (1019)
+|   +---Applications of Data Mining in eBus (910)
+|   +---Applied Data Mining (909)
+|   +---Applied Mathematics for Database Pr (735)
+|   +---Applying UML and Patterns-Craig Lar (687)
+|   +---Beautiful Code (591)
+|   +---Beautiful Data (823)
+|   +---Beautiful Security (2009) (1071)
+|   +---Beautiful Visualization (941)
+|   +---Beginning Apache Struts (149)
+|   +---Beginning DB2-From Novice to Profes (778)
+|   +---Beginning Google Maps API 3 (942)
+|   +---Beginning Hibernate 2nd edition (413)
+|   +---Beginning POJOs (320)
+|   +---Beginning Python (533)
+|   +---Beginning Python Visualization (532)
+|   +---Beginning XML with DOM and Ajax (264)
+|   +---Big Data Analytics (1012)
+|   +---Big Data Application Architecture Q (1011)
+|   +---Big Data Now_ 2012 Edition (1006)
+|   +---Big Java - 4e_ Compatible with Java (379)
+|   +---BPEL Cookbook (1157)
+|   +---Cassandra Design Patterns (1290)
+|   +---Cloud Computing and SOA Convergence (1136)
+|   +---Communication Design (1122)
+|   +---Continuous Delivery (666)
+|   +---Continuous Integration (620)
+|   +---Core JavaServer Faces (148)
+|   +---Core Servlets and JavaServer Pages (162)
+|   +---Cryptography for Developers (1070)
+|   +---Data Analysis and Data Mining (842)
+|   +---Data Analysis using SQL and Excel (907)
+|   +---Data Analytics (844)
+|   +---Data Manipulation with R (Use R) (882)
+|   +---Data Mining - Concepts, Models & Te (939)
+|   +---Data Mining and Business Analytics (888)
+|   +---Data Mining for Business Applicatio (933)
+|   +---Data Structures and Abstractions wi (489)
+|   +---Database in Depth Relational Theory (801)
+|   +---DBA Survivor (736)
+|   +---Decoding HTML5 (Rockable 2012) (225)
+|   +---Design Driven Testing (2010) (292)
+|   +---Design Patterns (725)
+|   +---Design Patterns for Dummies (719)
+|   +---Design.and.Analysis.of.Distributed. (472)
+|   +---Designing Next Generation Web Proje (223)
+|   +---Designing with Data (952)
+|   +---Developing RESTful Services with JA (1222)
+|   +---Developing RESTful Web Services wit (1220)
+|   +---Discovering SQL (750)
+|   +---Documenting Software Architectures (1121)
+|   +---Drools Developer's Cookbook (1159)
+|   +---DSLs in action (1119)
+|   +---Effective Monitoring and Alerting (1110)
+|   +---Effective UI (142)
+|   +---ElasticSearch Cookbook (1089)
+|   +---ElasticSearch Server (1093)
+|   +---Encyclopedia of Algorithms (477)
+|   +---Enterprise AJAX (253)
+|   +---Enterprise Architecture at Work (1052)
+|   +---Enterprise Security_ A Data-Centric (1060)
+|   +---Event Processing (1118)
+|   +---Event Processing in Action (1117)
+|   +---Expert One-on-One J2EE Development (319)
+|   +---Expert Oracle RAC 12c (758)
+|   +---Expert Python Programming (531)
+|   +---Expert Spring MVC and Web Flow (200 (331)
+|   +---Exploratory Software Testing (290)
+|   +---Exploring Python (528)
+|   +---Exploring Splunk (972)
+|   +---Ext JS 4 First Look (200)
+|   +---Ext JS in Action (201)
+|   +---Fast Data Processing with Spark (20 (969)
+|   +---Financial Modelling in Python (527)
+|   +---Firebug 1.5 Editing, Debugging and (129)
+|   +---Fonts and Encodings (953)
+|   +---Foundations of Agile Python Develop (529)
+|   +---Foundations of Ajax (265)
+|   +---Foundations of AOP for J2EE Develop (434)
+|   +---Foundations of Python Network Progr (526)
+|   +---Fundamentals of Python (525)
+|   +---Getting Good with Git (672)
+|   +---Getting Started With Kanban (649)
+|   +---Gradle Effective Implementation Gui (675)
+|   +---Grails Persistence with GORM and GS (516)
+|   +---Gray Hat Hacking - 3rd edition (1067)
+|   +---Groovy 2 Cookbook (507)
+|   +---Guide to Economics (92)
+|   +---Hacking Web Apps (127)
+|   +---Hadoop Beginners Guide (Feb 2013) (991)
+|   +---Hadoop Mapreduce Cookbook (2013) (989)
+|   +---Hadoop Real-World Solutions Cookboo (987)
+|   +---Handbook on Business Process Manage (1156)
+|   +---Handcrafted CSS (224)
+|   +---HBase _ The Definitive Guide (977)
+|   +---Head First 2D Geometry (46)
+|   +---Head First Data Analysis (847)
+|   +---Head First Excel (905)
+|   +---Head First HTML with CSS & XHTML (O (221)
+|   +---Head First Networking (453)
+|   +---Head First Physics (61)
+|   +---Head First Statistics (2009) (857)
+|   +---How Fractal Trees Work (783)
+|   +---HTML 5 Multimedia Development Cookb (217)
+|   +---HTML5 & CSS3 for the real world (Si (214)
+|   +---HTML5 Canvas Cookbook (213)
+|   +---HTML5 for Master minds (211)
+|   +---IBM DB2 9.7 Advanced Application De (782)
+|   +---In-Memory Data Management (792)
+|   +---InfoWorld-HadoopDeepDive v6 (984)
+|   +---Instance Migration to HTML5 and CSS (209)
+|   +---Instant Effective Caching with Ehca (1147)
+|   +---Intellectual Property and Open Sour (1064)
+|   +---Interactive Data Visualization for (964)
+|   +---IT Architecture for Dummies (1047)
+|   +---iText in Action (341)
+|   +---Java 7 New Features Cookbook (373)
+|   +---Java 8 Recipes, 2nd Edition (2014) (370)
+|   +---Java EE 5 with Glassfish Applicatio (128)
+|   +---Java EE 6 Cookbook for Securing, Tu (352)
+|   +---Java EE Development with Eclipse (383)
+|   +---Java Generics FAQs - PDF Generation (363)
+|   +---Java Persistence With Hibernate (415)
+|   +---Java Reflection in Java (336)
+|   +---JavaScript for Absolute Beginners (175)
+|   +---JavaScript Testing (172)
+|   +---JavaScript The Good Parts (171)
+|   +---JBoss Drools Business Rules (1158)
+|   +---JBoss ESB (2012) (1164)
+|   +---JDBC RowSet Implementations Tutoria (410)
+|   +---Joe Celko's SQL Puzzles and Answers (744)
+|   +---jQuery in Action (Manning 2008) (190)
+|   +---jQuery Tools UI Library (197)
+|   +---JSF 2.0 Cookbook (147)
+|   +---JUnit in Action (2004) (312)
+|   +---kanban-for-software-engineering-apr (645)
+|   +---Learning Ext JS 4 (202)
+|   +---Learning Highcharts (947)
+|   +---Learning jQuery (Packt 2007) (194)
+|   +---Learning RStudio for R Statistical (879)
+|   +---Linux Command Line and Shell Script (273)
+|   +---Linux Shell Scripting Cookbook (280)
+|   +---Machine Learning in Action (898)
+|   +---Management 3.0 (632)
+|   +---Managing Data in Motion (2013) (830)
+|   +---Managing Software Debt (684)
+|   +---Managing Time in Relational Databas (791)
+|   +---Mastering ElasticSearch (1095)
+|   +---Mastering Enterprise JavaBeans 3.0 (423)
+|   +---Mastering Gradle (676)
+|   +---Masterminds of Programming (443)
+|   +---Mature Optimization Handbook (829)
+|   +---Mining Graph Data (920)
+|   +---Nagios (1115)
+|   +---Nagios Core Administration Cookbook (1114)
+|   +---Neo4j Cookbook (2015) (1280)
+|   +---Neo4j in Action (2015) (1278)
+|   +---Node for Front-End Developers (185)
+|   +---Node Web Development (184)
+|   +---Ontology-Driven Software Developmen (603)
+|   +---Open Source ESBs in Action (1165)
+|   +---Oracle 11g SQL (755)
+|   +---Oracle Coherence 3.5 (1043)
+|   +---Oracle Database Transactions and Lo (771)
+|   +---Oracle Essentials (769)
+|   +---Oracle PL_SQL Best Practices (766)
+|   +---Oracle PL_SQL Recipes (768)
+|   +---Oracle SOA Infrastructure Implement (1209)
+|   +---Oreilly - jQuery Cookbook (12-2009) (187)
+|   +---OSGi in Action_ Creating Modular Ap (1103)
+|   +---OSGi with Apache Felix 3.0 (1105)
+|   +---Pattern-Oriented Software Architect (1042)
+|   +---Patterns for Performance and Operab (1039)
+|   +---Patterns_ Service-Oriened Architect (1204)
+|   +---Performance of Web Services (1244)
+|   +---Performance Testing With JMeter 2.9 (306)
+|   +---Physical Database Design (813)
+|   +---POJOs in Action (316)
+|   +---PowerPivot for Business Intelligenc (902)
+|   +---PowerPivot for Excel 2010 (903)
+|   +---Principles of Data Mining (916)
+|   +---Principles of Macroeconomics (93)
+|   +---Pro Ajax and Java (257)
+|   +---Pro Apache Struts with Ajax (158)
+|   +---Pro Bash Programming (284)
+|   +---Pro CSS Techniques (Apress 2006) (206)
+|   +---Pro EJB 3 (422)
+|   +---Pro Hadoop (Jun 2009) (982)
+|   +---Pro HTML5 Programming (246)
+|   +---Pro Javascript Techniques (Apress 2 (166)
+|   +---Pro JavaScript with MooTools (165)
+|   +---Pro JSP 2 (156)
+|   +---Pro Oracle Database 12c Administrat (765)
+|   +---Pro Oracle SQL (764)
+|   +---Pro Python (521)
+|   +---Pro Spring 3 (2012) (322)
+|   +---Pro Spring MVC with Web Flow (2012) (332)
+|   +---Professional Web 2.0 Programming (132)
+|   +---Professional Web Design - Volume 1 (118)
+|   +---Programming Collective Intelligence (894)
+|   +---Python 2.6 Graphics Cookbook (517)
+|   +---Python 3 for Absolute Beginners (520)
+|   +---Python Essential Reference (550)
+|   +---Python for Unix and Linux System Ad (549)
+|   +---Python Testing Cookbook (548)
+|   +---Python Text Processing with NTLK 2. (542)
+|   +---QlikView for Developers Cookbook (966)
+|   +---R Graphs Cookbook (873)
+|   +---R Statistical Application Developme (867)
+|   +---Relational Database Design and Impl (812)
+|   +---Responsive Web Design by Example (121)
+|   +---REST in practice (2010) (1243)
+|   +---RESTful Java Web Services (1240)
+|   +---RESTful Web Services (2007) (1234)
+|   +---Scaling MongoDb (2011) (1270)
+|   +---Schaum's Outline of Probability, Ran (52)
+|   +---Scripting in Java (2008) (505)
+|   +---Secure Semantic Service-Oriented Sy (1202)
+|   +---Securing Ajax Applications (252)
+|   +---Security Metrics (1084)
+|   +---Security Power Tools (2007) (1086)
+|   +---Service Oriented Architecture for D (1198)
+|   +---Service Oriented Architecture With (1200)
+|   +---Service-Oriented Modeling (1193)
+|   +---Shell Scripting (283)
+|   +---Slides- State-of-the-Art Database I (733)
+|   +---SOA and Web Services Interfaces Des (1190)
+|   +---SOA Approach to Integration (1187)
+|   +---SOA in Practice (2007) (1180)
+|   +---SOA Made Simple (2012) (1182)
+|   +---SOA Using Java Web Services (1232)
+|   +---Socket.IO Real-time Web Application (183)
+|   +---Software Architecture Patterns (1294)
+|   +---Software Modeling and Design (698)
+|   +---Software Pipelines and SOA (1175)
+|   +---Sonar Code Quality Testing Essentia (682)
+|   +---Spring Persistence With Hibernate ( (414)
+|   +---Spring Python 1.1 (543)
+|   +---Spring Recipes - A Problem-Solution (321)
+|   +---Spring Web Services 2 Cookbook (1253)
+|   +---SQL Clearly Explained (747)
+|   +---Sybase Performance and Tuning Guide (738)
+|   +---Sybase Performance and Tuning Guide (741)
+|   +---Sybase Performance and Tuning Guide (742)
+|   +---Tableau Data Visualization Cookbook (958)
+|   +---Taming The Big Data Tidal Wave (998)
+|   +---Tapestry in Action (155)
+|   +---TCP IP Sockets in Java (389)
+|   +---Test Driven - Practical TDD and Acc (701)
+|   +---Test-Driven Development with Mockit (307)
+|   +---Test-Driven Java Development (311)
+|   +---The Art & Science of CSS (243)
+|   +---The Art of Enterprise Information A (1023)
+|   +---The AWK Programming Language (282)
+|   +---The CSS Detective Guide (245)
+|   +---The Definitive Guide to Jython (541)
+|   +---The Definitive Guide to SOA (1174)
+|   +---The Definitive Guide to Terracotta (1099)
+|   +---The Definitive Guider to MongoDb (1271)
+|   +---The Essential Guide to HTML5 (242)
+|   +---The Healthy Programmer (607)
+|   +---The Java Virtual Machine Specificat (356)
+|   +---The Little Redis Book (1267)
+|   +---The Myths of Security (2009) (1081)
+|   +---The Productive Programmer (596)
+|   +---The Python Standard Library by Exam (539)
+|   +---The Relational Database Dictionary, (734)
+|   +---The Struts Framework (152)
+|   +---The Tangled Web_ A Guide to Securin (1076)
+|   +---The Travels of a T-shirt in the Glob (89)
+|   +---The Ultimate CSS Reference (241)
+|   +---Think Complexity (483)
+|   +---Transactional Memory (1020)
+|   +---Understanding IBM SOA Foundation Su (1170)
+|   +---User-Centered Design (113)
+|   +---UX for Lean Startups (137)
+|   +---Varnish Cache How-to (1144)
+|   +---Violent Python (535)
+|   +---Visual Intelligence Microsoft Tools (945)
+|   +---Visualizing Data (943)
+|   +---Web Service Contract Design and Ver (1171)
+|   +---Web Services Testing with soapUI (2 (1227)
+|   +---Windows Powershell Cookbook - 2nd E (107)
+|   +---Write Great Code (593)
+|   +---Writing and Querying MapReduce View (1282)
+|   +---XML Schema Essentials (402)
+|   \---ZeroMQ (O'Reilly) (408)
++---user
+|   \---How Linux Works (268)
++---Venkat Subramaniam
+|   +---Functional Programming in Java (417)
+|   +---Practices of an Agile Developer_ Wo (634)
+|   +---Programming Concurrency on the JVM (428)
+|   \---Programming Groovy 2 (508)
++---Venkat Subramaniam (2006)
+|   \---Programming Groovy (506)
++---Vernon L. Ceder
+|   \---The Quick Python Book (537)
++---Vernon, Vaughn
+|   \---Implementing Domain-Driven Design (702)
++---Viktor Mayer-Schonberger
+|   \---Big Data_ A Revolution That Will Tr (1015)
++---Vishal Layka
+|   \---Beginning Groovy, Grails and Griffo (503)
++---Volume 2
+|   \---The Architecture of Open Source App (1027)
++---W. Richard Stevens
+|   \---Advanced Programming in the Unix En (271)
++---Waseem Roshen
+|   \---SOA-Based Enterprise Integration_ A (1185)
++---Werner Dubitzky
+|   \---Data Mining in Grid Computing Envir (931)
++---Wessler, Michael
+|   \---Big Data Analytics For Dummies(r), (838)
++---Wheaton, Wil
+|   \---Just a Geek (71)
++---Wheelan, Charles
+|   \---Naked Statistics_ Stripping the Dre (854)
++---Wiley (2008)
+|   \---Software Development Rhythms - Harm (633)
++---William C. Wake
+|   \---Extreme Programming Explored (664)
++---William Strunk, Jr_
+|   \---ELEMENTS OF STYLE-16 COPY PREPAK (75)
++---Williams, Ian_
+|   \---Beginning XSLT and XPath (403)
++---Winston Chang
+|   \---R Graphics Cookbook (874)
++---Working
+|   \---Software Systems Architecture (1026)
++---www.it-ebooks.info
+|   +---Beginning Java 8 APIs, Extensions a (358)
+|   +---Beginning Java 8 Fundamentals (2014 (378)
+|   +---Beginning Java 8 Language Features (377)
+|   +---SOA and WS-BPEL (2007) (1188)
+|   \---The Art of Software Testing, 3rd Ed (294)
++---Xindong Wu
+|   \---The Top Ten Algorithms in Data Mini (913)
++---Y.E.O. Adrian
+|   \---Pleasures of Pi,e and Other Interest (38)
++---Yanchang Zhao
+|   \---Data Mining Applications With R (887)
++---Ye, Wayne
+|   \---Instant Cucumber BDD How-to (706)
++---Yong Shi
+|   \---Optimization Based Data Mining_ The (919)
++---Yuk, Mico(Author)
+|   \---Data Visualization For Dummies (956)
++---Zach Gemignani
+|   \---Data Fluency (1005)
+\---Zubin Wadia
+    \---Pro JSF and HTML5 (157)
