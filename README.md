@@ -1,4 +1,4 @@
 
-Fun project to keep my toy programs.
+Fun programs.
 
 ![](https://travis-ci.org/fizalihsan/PlayArea.svg)

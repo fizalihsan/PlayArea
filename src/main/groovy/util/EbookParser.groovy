@@ -8,7 +8,7 @@ import java.util.concurrent.Executors
  * This is a fun program to print book titles from http://it-ebooks.info/book
  */
 
-def range = 5726..6000
+def range = 7001..7106
 def pool = Executors.newFixedThreadPool(1)
 def latch = new CountDownLatch(range.size())
 range.each { id ->
@@ -21,9 +21,9 @@ range.each { id ->
             def year = getTextWithin(text, "datePublished\">", "</b>")
 
             if(year.length()>4 && year.contains("<")){
-                println "$url - !!! Book not found !!!"
+                println "* $url - !!! Book not found !!!"
             } else {
-                println "$url - $title - $year"
+                println "* $url - $title - $year"
             }
 
 

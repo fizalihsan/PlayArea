@@ -2,8 +2,6 @@ package datastructures.linkedlist;
 
 
 import java.io.StringWriter;
-import java.util.IdentityHashMap;
-import java.util.Map;
 
 /**
  * Comment here about the class
@@ -13,29 +11,6 @@ import java.util.Map;
  */
 public class LinkedListProblems {
 
-    /**
-     * Get the Kth node from end of a linked list. It counts from 1 here, so the 1st node from end is the tail of list.
-     * For instance, given a linked list with 6 nodes, whose value are 1, 2, 3, 4, 5, 6, its 3rd node from end is the node with value 4
-     * Efficiency= O(n)
-     * @param head
-     * @param k
-     * @return If list size is less than k, then null. Else kth node.
-     */
-    static SingleLinkNode kthNodeFromEnd(SingleLinkNode head, int k){
-        SingleLinkNode p1 = head, p2 = head;
-
-        for (int i = 0; i <k; i++) {
-            if(p1 == null) return p1;
-            p1 = p1.getNext();
-        }
-
-        while(p1 != null) {
-            p1 = p1.getNext();
-            p2 = p2.getNext();
-        }
-
-        return p2;
-    }
 
     /**
      * Reverses the given singly-linked list.
@@ -56,49 +31,6 @@ public class LinkedListProblems {
         }
 
         return reverseHead;
-    }
-
-    /**
-     * Check if the given list has a loop using an IdentityHashMap
-     * Complexity: Time = O(n), Space = O(n). Space complexity of this algo is unnecessarily large.
-     *
-     * @param head
-     * @return true, if loop exists
-     */
-    static boolean loopCheckUsingExtraDataStructure(SingleLinkNode head){
-        Map<SingleLinkNode, SingleLinkNode> map = new IdentityHashMap<>();
-
-        SingleLinkNode next = head;
-        while (next!=null){
-            if(map.containsKey(next)) return true;
-            map.put(next, next);
-            next = next.getNext();
-        }
-
-        return false;
-    }
-
-    /**
-     * Check if the given list has a loop using Pollard's Rho algorithm which is based on Floyd's algorithm or Tortoise and Hare algorithm.
-     * (http://en.wikipedia.org/wiki/Cycle_detection#Tortoise_and_hare)
-     * http://en.wikipedia.org/wiki/Pollard%27s_rho_algorithm
-     * Efficiency: O(n) time complexity, O(1) space complexity.
-     *
-     * @param head
-     * @return true, if loop exists
-     */
-    static boolean loopCheckByPollard(SingleLinkNode head){
-        if(head==null) return false;
-
-        SingleLinkNode slow = head, fast = head;
-
-        while (fast.getNext()!=null && fast.getNext().getNext()!=null){ // no need to check for slow!=null since fast did that already
-            slow = slow.getNext();
-            fast = fast.getNext().getNext();
-
-            if(slow == fast) return true;
-        }
-        return false;
     }
 
     /**
