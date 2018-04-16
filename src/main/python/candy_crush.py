@@ -35,6 +35,7 @@ def crush(input, start, end):
 
     return input[0:start] + input[end + 1:len(input)]
 
+
 def candy_crush(input):
     while True:
         start, end = findRepitition(input)
