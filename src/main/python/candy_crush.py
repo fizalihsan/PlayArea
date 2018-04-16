@@ -35,16 +35,21 @@ def crush(input, start, end):
 
     return input[0:start] + input[end + 1:len(input)]
 
+def candy_crush(input):
+    while True:
+        start, end = findRepitition(input)
+        output = crush(input, start, end)
 
-input = [1, 1, 2, 2, 2, 3, 3, 4, 4, 4]
-output = []
+        if input == output:
+            break
+        input = output
+    return output
 
-while True:
-    start, end = findRepitition(input)
-    output = crush(input, start, end)
-    print(output)
-    if input == output:
-        break
-    input = output
 
-print("Final output = {}".format(output))
+assert candy_crush([]) == []
+assert candy_crush([1]) == [1]
+assert candy_crush([1, 1]) == [1, 1]
+assert candy_crush([1, 1, 1]) == []
+assert candy_crush([1, 2, 1, 1]) == [1, 2, 1, 1]
+assert candy_crush([1, 1, 2, 2, 2, 1, 1]) == []
+assert candy_crush([1, 1, 2, 2, 2, 3, 3, 4, 4, 4]) == [1, 1, 3, 3]
